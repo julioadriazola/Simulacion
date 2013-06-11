@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProblemDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DecisionVars>
+    <DecisionVariable>
+      <VarID>635060770373234054</VarID>
+      <Name>bienAtendidos1</Name>
+      <Description />
+      <Type>VARCONTINUOUS</Type>
+      <LowerBound>0</LowerBound>
+      <UpperBound>0</UpperBound>
+      <SuggestedValue>0</SuggestedValue>
+      <DiscreteStepSize>0</DiscreteStepSize>
+      <Included>false</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>bienAtendidos1</ControlName>
+        <SymbolNumber>18</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>0</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>18</StartIndex>
+        <EndIndex>18</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373234055</VarID>
+      <Name>bienAtendidos2</Name>
+      <Description />
+      <Type>VARCONTINUOUS</Type>
+      <LowerBound>0</LowerBound>
+      <UpperBound>0</UpperBound>
+      <SuggestedValue>0</SuggestedValue>
+      <DiscreteStepSize>0</DiscreteStepSize>
+      <Included>false</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>bienAtendidos2</ControlName>
+        <SymbolNumber>19</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>0</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>19</StartIndex>
+        <EndIndex>19</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373204053</VarID>
+      <Name>malAtendidos1</Name>
+      <Description />
+      <Type>VARCONTINUOUS</Type>
+      <LowerBound>0</LowerBound>
+      <UpperBound>0</UpperBound>
+      <SuggestedValue>0</SuggestedValue>
+      <DiscreteStepSize>0</DiscreteStepSize>
+      <Included>false</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>malAtendidos1</ControlName>
+        <SymbolNumber>11</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>0</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>11</StartIndex>
+        <EndIndex>11</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373204054</VarID>
+      <Name>malAtendidos2</Name>
+      <Description />
+      <Type>VARCONTINUOUS</Type>
+      <LowerBound>0</LowerBound>
+      <UpperBound>0</UpperBound>
+      <SuggestedValue>0</SuggestedValue>
+      <DiscreteStepSize>0</DiscreteStepSize>
+      <Included>false</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>malAtendidos2</ControlName>
+        <SymbolNumber>12</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>0</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>12</StartIndex>
+        <EndIndex>12</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373214053</VarID>
+      <Name>mu1</Name>
+      <Description />
+      <Type>VARDISCRETE</Type>
+      <LowerBound>35</LowerBound>
+      <UpperBound>85</UpperBound>
+      <SuggestedValue>35</SuggestedValue>
+      <DiscreteStepSize>1</DiscreteStepSize>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>mu1</ControlName>
+        <SymbolNumber>15</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>100</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>15</StartIndex>
+        <EndIndex>15</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373224054</VarID>
+      <Name>mu2</Name>
+      <Description />
+      <Type>VARDISCRETE</Type>
+      <LowerBound>90</LowerBound>
+      <UpperBound>130</UpperBound>
+      <SuggestedValue>90</SuggestedValue>
+      <DiscreteStepSize>1</DiscreteStepSize>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>mu2</ControlName>
+        <SymbolNumber>16</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>100</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>16</StartIndex>
+        <EndIndex>16</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373224055</VarID>
+      <Name>mu3</Name>
+      <Description />
+      <Type>VARDISCRETE</Type>
+      <LowerBound>100</LowerBound>
+      <UpperBound>135</UpperBound>
+      <SuggestedValue>100</SuggestedValue>
+      <DiscreteStepSize>1</DiscreteStepSize>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>mu3</ControlName>
+        <SymbolNumber>17</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>110</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>17</StartIndex>
+        <EndIndex>17</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+    <DecisionVariable>
+      <VarID>635060770373164050</VarID>
+      <Name>tasaLlegada</Name>
+      <Description />
+      <Type>VARCONTINUOUS</Type>
+      <LowerBound>90</LowerBound>
+      <UpperBound>110.00000000000001</UpperBound>
+      <SuggestedValue>100</SuggestedValue>
+      <DiscreteStepSize>0</DiscreteStepSize>
+      <Included>false</Included>
+      <Valid>true</Valid>
+      <SimulationVar>
+        <Category>User Specified</Category>
+        <ControlName>tasaLlegada</ControlName>
+        <SymbolNumber>5</SymbolNumber>
+        <ControlType>VARIABLE</ControlType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <CurrentValue>100</CurrentValue>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>5</StartIndex>
+        <EndIndex>5</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationVar>
+    </DecisionVariable>
+  </DecisionVars>
+  <OutputVars>
+    <OutputVariable>
+      <Name>Entity 1.NumberIn</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.NumberIn</ResponseName>
+        <DataType>Number In</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>1</SymbolNumber>
+        <ResponseType>OUTPUT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.NumberOut</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.NumberOut</ResponseName>
+        <DataType>Number Out</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>2</SymbolNumber>
+        <ResponseType>OUTPUT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.NVATime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.NVATime</ResponseName>
+        <DataType>NVA Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>2</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.OtherTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.OtherTime</ResponseName>
+        <DataType>Other Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>5</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.TotalTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.TotalTime</ResponseName>
+        <DataType>Total Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>6</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.TranTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.TranTime</ResponseName>
+        <DataType>Transfer Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>4</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.VATime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.VATime</ResponseName>
+        <DataType>VA Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>1</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.WaitTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.WaitTime</ResponseName>
+        <DataType>Wait Time</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>3</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Entity 1.WIP</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Entity</Category>
+        <ResponseName>Entity 1.WIP</ResponseName>
+        <DataType>WIP</DataType>
+        <ProcessID>Entity 1</ProcessID>
+        <SymbolNumber>1</SymbolNumber>
+        <ResponseType>DSTAT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 1.Queue.NumberInQueue</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 1.Queue.NumberInQueue</ResponseName>
+        <DataType>Number Waiting</DataType>
+        <ProcessID>Hold 1.Queue</ProcessID>
+        <SymbolNumber>3</SymbolNumber>
+        <ResponseType>DSTAT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 1.Queue.WaitingTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 1.Queue.WaitingTime</ResponseName>
+        <DataType>Waiting Time</DataType>
+        <ProcessID>Hold 1.Queue</ProcessID>
+        <SymbolNumber>8</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 2.Queue.NumberInQueue</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 2.Queue.NumberInQueue</ResponseName>
+        <DataType>Number Waiting</DataType>
+        <ProcessID>Hold 2.Queue</ProcessID>
+        <SymbolNumber>4</SymbolNumber>
+        <ResponseType>DSTAT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 2.Queue.WaitingTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 2.Queue.WaitingTime</ResponseName>
+        <DataType>Waiting Time</DataType>
+        <ProcessID>Hold 2.Queue</ProcessID>
+        <SymbolNumber>9</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 4.Queue.NumberInQueue</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 4.Queue.NumberInQueue</ResponseName>
+        <DataType>Number Waiting</DataType>
+        <ProcessID>Hold 4.Queue</ProcessID>
+        <SymbolNumber>2</SymbolNumber>
+        <ResponseType>DSTAT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>Hold 4.Queue.WaitingTime</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>Queue</Category>
+        <ResponseName>Hold 4.Queue.WaitingTime</ResponseName>
+        <DataType>Waiting Time</DataType>
+        <ProcessID>Hold 4.Queue</ProcessID>
+        <SymbolNumber>7</SymbolNumber>
+        <ResponseType>TALLY</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>System.NumberOut</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>System</Category>
+        <ResponseName>System.NumberOut</ResponseName>
+        <DataType>Number Out</DataType>
+        <ProcessID>System</ProcessID>
+        <SymbolNumber>3</SymbolNumber>
+        <ResponseType>OUTPUT</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>-1</StartIndex>
+        <EndIndex>-1</EndIndex>
+        <Dim1LowerLimit>-1</Dim1LowerLimit>
+        <Dim1UpperLimit>-1</Dim1UpperLimit>
+        <Dim2LowerLimit>-1</Dim2LowerLimit>
+        <Dim2UpperLimit>-1</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>bienAtendidos1</Name>
+      <Description />
+      <Included>true</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>bienAtendidos1</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>18</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>18</StartIndex>
+        <EndIndex>18</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>bienAtendidos2</Name>
+      <Description />
+      <Included>true</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>bienAtendidos2</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>19</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>19</StartIndex>
+        <EndIndex>19</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>malAtendidos1</Name>
+      <Description />
+      <Included>true</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>malAtendidos1</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>11</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>11</StartIndex>
+        <EndIndex>11</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>malAtendidos2</Name>
+      <Description />
+      <Included>true</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>malAtendidos2</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>12</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>12</StartIndex>
+        <EndIndex>12</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>mu1</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>mu1</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>15</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>15</StartIndex>
+        <EndIndex>15</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>mu2</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>mu2</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>16</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>16</StartIndex>
+        <EndIndex>16</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>mu3</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>mu3</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>17</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>17</StartIndex>
+        <EndIndex>17</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+    <OutputVariable>
+      <Name>tasaLlegada</Name>
+      <Description />
+      <Included>false</Included>
+      <SimulationOutput>
+        <Category>User Specified</Category>
+        <ResponseName>tasaLlegada</ResponseName>
+        <DataType>Variable</DataType>
+        <SymbolNumber>5</SymbolNumber>
+        <ResponseType>VARIABLE</ResponseType>
+        <ArrayType>SINGLEELEMENT</ArrayType>
+        <NumDimensions>0</NumDimensions>
+        <StartIndex>5</StartIndex>
+        <EndIndex>5</EndIndex>
+        <Dim1LowerLimit>0</Dim1LowerLimit>
+        <Dim1UpperLimit>0</Dim1UpperLimit>
+        <Dim2LowerLimit>0</Dim2LowerLimit>
+        <Dim2UpperLimit>0</Dim2UpperLimit>
+        <Dim1>-1</Dim1>
+        <Dim2>-1</Dim2>
+      </SimulationOutput>
+    </OutputVariable>
+  </OutputVars>
+  <Constraints>
+    <Constraint>
+      <Name>Nivel 1</Name>
+      <Description />
+      <Expression>[bienAtendidos1]/([bienAtendidos1]+[malAtendidos1])&gt;=0.95</Expression>
+      <ValidExpression>true</ValidExpression>
+      <LinearExpression>false</LinearExpression>
+      <Included>true</Included>
+    </Constraint>
+    <Constraint>
+      <Name>Nivel 2</Name>
+      <Description />
+      <Expression>[bienAtendidos2]/([bienAtendidos2]+[malAtendidos2])&gt;=0.85</Expression>
+      <ValidExpression>true</ValidExpression>
+      <LinearExpression>false</LinearExpression>
+      <Included>true</Included>
+    </Constraint>
+  </Constraints>
+  <Objectives>
+    <Objective>
+      <Name>New Objective</Name>
+      <Description />
+      <Expression>45*[mu1]+25*[mu2]+60*[mu3]</Expression>
+      <ValidExpression>true</ValidExpression>
+      <LinearExpression>true</LinearExpression>
+      <Active>true</Active>
+      <Maximize>false</Maximize>
+    </Objective>
+  </Objectives>
+  <SuggestedSolutions>
+    <SuggestedSolution>
+      <Name>Simulation 31</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>54</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>109</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>117</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 30</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>54</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>109</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>118</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 29</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>54</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>109</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>120</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 48</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>67</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>105</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>112</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 47</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>68</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>105</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>112</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 46</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>54</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>109</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>121</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 50</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>67</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>105</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>116</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 28</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>54</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>109</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>125</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 49</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>68</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>107</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>116</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+    <SuggestedSolution>
+      <Name>Simulation 24</Name>
+      <Included>true</Included>
+      <Valid>true</Valid>
+      <SuggestedValues>
+        <SuggestedValue>
+          <VarID>635060770373214053</VarID>
+          <Value>71</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224054</VarID>
+          <Value>106</Value>
+        </SuggestedValue>
+        <SuggestedValue>
+          <VarID>635060770373224055</VarID>
+          <Value>121</Value>
+        </SuggestedValue>
+      </SuggestedValues>
+      <ConstraintFeasible>UNDETERMINED</ConstraintFeasible>
+    </SuggestedSolution>
+  </SuggestedSolutions>
+  <Options>
+    <Valid>true</Valid>
+    <AutoStop>false</AutoStop>
+    <ManualStop>false</ManualStop>
+    <IterationCountStop>true</IterationCountStop>
+    <NumIterations>400</NumIterations>
+    <Tolerance>0.0001</Tolerance>
+    <SolutionLogFilePath>E:\Entrega 4\OptQuestSolutions1.log</SolutionLogFilePath>
+    <ErrorControl>FIXEDREPLICATIONS</ErrorControl>
+    <NumFixedReplications>3</NumFixedReplications>
+    <NumMinimumReplications>3</NumMinimumReplications>
+    <NumMaximumReplications>6</NumMaximumReplications>
+    <ConfidenceLevelPercent>PCT95</ConfidenceLevelPercent>
+    <ConfidenctErrorPct>0.1</ConfidenctErrorPct>
+    <RunSuggestedSolutions>false</RunSuggestedSolutions>
+  </Options>
+  <Debug>false</Debug>
+  <ModelName>E:\Entrega 4\Tarea4.doe</ModelName>
+</ProblemDefinition>

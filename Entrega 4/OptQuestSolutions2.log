@@ -1,0 +1,8009 @@
+E:\Entrega 4\Tarea4.doe
+6/6/2013 1:49:02 PM
+Objective:  New Objective: 45*[mu1]+25*[mu2]+60*[mu3]
+  
+Simulation: 1   ****NEW BEST SOLUTION****
+6/6/2013 1:49:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  159.333333333333
+bienAtendidos2:  482.333333333333
+malAtendidos1:  122.333333333333
+malAtendidos2:  388.666666666667
+  
+New Objective:  9825(Best = 9825  Infeasible)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear infeasible
+  
+  
+Simulation: 2   ****NEW BEST SOLUTION****
+6/6/2013 1:49:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  60
+mu2:  110
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  290.666666666667
+bienAtendidos2:  877.666666666667
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  12530(Best = 12530)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 3
+6/6/2013 1:49:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  73
+mu2:  120
+mu3:  127
+  
+Values of Output Variables
+bienAtendidos1:  307.666666666667
+bienAtendidos2:  895.666666666667
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  13905(Best = 12530)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 4
+6/6/2013 1:49:09 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  130
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  307.666666666667
+bienAtendidos2:  894.666666666667
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  15175(Best = 12530)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 5
+6/6/2013 1:49:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  48
+mu2:  100
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  267.666666666667
+bienAtendidos2:  776.666666666667
+malAtendidos1:  32.3333333333333
+malAtendidos2:  77.3333333333333
+  
+New Objective:  11200(Best = 12530)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 6
+6/6/2013 1:49:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  73
+mu2:  120
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  311
+bienAtendidos2:  904.666666666667
+malAtendidos1:  0
+malAtendidos2:  0.666666666666667
+  
+New Objective:  13845(Best = 12530)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 7   ****NEW BEST SOLUTION****
+6/6/2013 1:49:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  95
+mu3:  132
+  
+Values of Output Variables
+bienAtendidos1:  283
+bienAtendidos2:  899.666666666667
+malAtendidos1:  4.33333333333333
+malAtendidos2:  6.33333333333333
+  
+New Objective:  11960(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 8
+6/6/2013 1:49:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  93
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  250.333333333333
+bienAtendidos2:  886.666666666667
+malAtendidos1:  59.6666666666667
+malAtendidos2:  18.3333333333333
+  
+New Objective:  12000(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 9
+6/6/2013 1:49:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  128
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  246.666666666667
+bienAtendidos2:  766.666666666667
+malAtendidos1:  51.6666666666667
+malAtendidos2:  108
+  
+New Objective:  11330(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 10
+6/6/2013 1:49:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  92
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  275.666666666667
+bienAtendidos2:  738.333333333333
+malAtendidos1:  32.3333333333333
+malAtendidos2:  149.333333333333
+  
+New Objective:  12740(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 11
+6/6/2013 1:49:20 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  128
+mu3:  130
+  
+Values of Output Variables
+bienAtendidos1:  279.666666666667
+bienAtendidos2:  904
+malAtendidos1:  8.33333333333333
+malAtendidos2:  0
+  
+New Objective:  12845(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 12
+6/6/2013 1:49:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  72
+mu2:  91
+mu3:  132
+  
+Values of Output Variables
+bienAtendidos1:  308
+bienAtendidos2:  860.666666666667
+malAtendidos1:  0
+malAtendidos2:  11.6666666666667
+  
+New Objective:  13435(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 13
+6/6/2013 1:49:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  70
+mu2:  128
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  284.333333333333
+bienAtendidos2:  833.333333333333
+malAtendidos1:  22.3333333333333
+malAtendidos2:  52.6666666666667
+  
+New Objective:  12710(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 14
+6/6/2013 1:49:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  109
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  210.333333333333
+bienAtendidos2:  630.666666666667
+malAtendidos1:  71.3333333333333
+malAtendidos2:  267.666666666667
+  
+New Objective:  11710(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 15
+6/6/2013 1:49:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  110
+mu3:  120
+  
+Values of Output Variables
+bienAtendidos1:  257.333333333333
+bienAtendidos2:  869
+malAtendidos1:  48
+malAtendidos2:  44.3333333333333
+  
+New Objective:  11615(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 16
+6/6/2013 1:49:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  92
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  152.333333333333
+bienAtendidos2:  414
+malAtendidos1:  154
+malAtendidos2:  471.333333333333
+  
+New Objective:  11345(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 17
+6/6/2013 1:49:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  128
+mu3:  116
+  
+Values of Output Variables
+bienAtendidos1:  305
+bienAtendidos2:  862.333333333333
+malAtendidos1:  1
+malAtendidos2:  0.666666666666667
+  
+New Objective:  12590(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 18
+6/6/2013 1:49:31 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  71
+mu2:  128
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  269.666666666667
+bienAtendidos2:  776.666666666667
+malAtendidos1:  37.3333333333333
+malAtendidos2:  100.333333333333
+  
+New Objective:  12635(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 19
+6/6/2013 1:49:33 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  92
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  303.666666666667
+bienAtendidos2:  750
+malAtendidos1:  11.3333333333333
+malAtendidos2:  153.333333333333
+  
+New Objective:  12785(Best = 11960)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 20   ****NEW BEST SOLUTION****
+6/6/2013 1:49:34 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  94
+mu3:  125
+  
+Values of Output Variables
+bienAtendidos1:  302
+bienAtendidos2:  878
+malAtendidos1:  6
+malAtendidos2:  9.66666666666667
+  
+New Objective:  11695(Best = 11695)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 21   ****NEW BEST SOLUTION****
+6/6/2013 1:49:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  94
+mu3:  122
+  
+Values of Output Variables
+bienAtendidos1:  282
+bienAtendidos2:  891
+malAtendidos1:  6.33333333333333
+malAtendidos2:  2.66666666666667
+  
+New Objective:  11605(Best = 11605)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 22   ****NEW BEST SOLUTION****
+6/6/2013 1:49:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  94
+mu3:  121
+  
+Values of Output Variables
+bienAtendidos1:  300
+bienAtendidos2:  865
+malAtendidos1:  3.66666666666667
+malAtendidos2:  8.33333333333333
+  
+New Objective:  11590(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 23
+6/6/2013 1:49:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  94
+mu3:  121
+  
+Values of Output Variables
+bienAtendidos1:  294.666666666667
+bienAtendidos2:  876.333333333333
+malAtendidos1:  1.66666666666667
+malAtendidos2:  7
+  
+New Objective:  11635(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 24
+6/6/2013 1:49:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  96
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  290
+bienAtendidos2:  869.333333333333
+malAtendidos1:  29.6666666666667
+malAtendidos2:  0
+  
+New Objective:  12075(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 25
+6/6/2013 1:49:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  95
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  287.666666666667
+bienAtendidos2:  891
+malAtendidos1:  12.3333333333333
+malAtendidos2:  1.33333333333333
+  
+New Objective:  12050(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 26
+6/6/2013 1:49:42 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  63
+mu2:  92
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  241.666666666667
+bienAtendidos2:  679.666666666667
+malAtendidos1:  47.6666666666667
+malAtendidos2:  210.666666666667
+  
+New Objective:  11495(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 27
+6/6/2013 1:49:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  95
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  196
+bienAtendidos2:  582
+malAtendidos1:  110
+malAtendidos2:  287
+  
+New Objective:  10160(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 28
+6/6/2013 1:49:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  92
+mu3:  132
+  
+Values of Output Variables
+bienAtendidos1:  300
+bienAtendidos2:  873.666666666667
+malAtendidos1:  0
+malAtendidos2:  6
+  
+New Objective:  13145(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 29
+6/6/2013 1:49:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  95
+mu3:  134
+  
+Values of Output Variables
+bienAtendidos1:  282
+bienAtendidos2:  862.333333333333
+malAtendidos1:  19.3333333333333
+malAtendidos2:  0
+  
+New Objective:  11990(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 30
+6/6/2013 1:49:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  100
+mu3:  130
+  
+Values of Output Variables
+bienAtendidos1:  294.333333333333
+bienAtendidos2:  903
+malAtendidos1:  4
+malAtendidos2:  0.333333333333333
+  
+New Objective:  11965(Best = 11590)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 31   ****NEW BEST SOLUTION****
+6/6/2013 1:49:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  99
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  300
+bienAtendidos2:  861.666666666667
+malAtendidos1:  5
+malAtendidos2:  4
+  
+New Objective:  11535(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 32
+6/6/2013 1:49:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  102
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  298.666666666667
+bienAtendidos2:  879.666666666667
+malAtendidos1:  3.66666666666667
+malAtendidos2:  2.66666666666667
+  
+New Objective:  11550(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 33
+6/6/2013 1:49:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  96
+mu3:  123
+  
+Values of Output Variables
+bienAtendidos1:  300
+bienAtendidos2:  904.666666666667
+malAtendidos1:  8.66666666666667
+malAtendidos2:  1.66666666666667
+  
+New Objective:  11535(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 34
+6/6/2013 1:49:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  57
+mu2:  94
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  204
+bienAtendidos2:  539.666666666667
+malAtendidos1:  101.333333333333
+malAtendidos2:  321.333333333333
+  
+New Objective:  11155(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 35
+6/6/2013 1:49:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  94
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  145
+bienAtendidos2:  407.333333333333
+malAtendidos1:  149.666666666667
+malAtendidos2:  443.666666666667
+  
+New Objective:  11395(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 36
+6/6/2013 1:49:58 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  55
+mu2:  98
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  252.333333333333
+bienAtendidos2:  730
+malAtendidos1:  38
+malAtendidos2:  153.333333333333
+  
+New Objective:  11105(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 37
+6/6/2013 1:49:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  110
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  276
+bienAtendidos2:  892.333333333333
+malAtendidos1:  23.3333333333333
+malAtendidos2:  18
+  
+New Objective:  11675(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 38
+6/6/2013 1:50:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  111
+mu3:  116
+  
+Values of Output Variables
+bienAtendidos1:  273.333333333333
+bienAtendidos2:  871
+malAtendidos1:  19
+malAtendidos2:  41
+  
+New Objective:  11490(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 39
+6/6/2013 1:50:02 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  118
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  152.333333333333
+bienAtendidos2:  441.333333333333
+malAtendidos1:  155
+malAtendidos2:  442
+  
+New Objective:  11500(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 40
+6/6/2013 1:50:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  49
+mu2:  107
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  269
+bienAtendidos2:  813.666666666667
+malAtendidos1:  20
+malAtendidos2:  44
+  
+New Objective:  11600(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 41
+6/6/2013 1:50:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  130
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  204.666666666667
+bienAtendidos2:  628.333333333333
+malAtendidos1:  93.6666666666667
+malAtendidos2:  243.666666666667
+  
+New Objective:  11380(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 42
+6/6/2013 1:50:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  115
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  272.333333333333
+bienAtendidos2:  832
+malAtendidos1:  26
+malAtendidos2:  80.3333333333333
+  
+New Objective:  13315(Best = 11535)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 43   ****NEW BEST SOLUTION****
+6/6/2013 1:50:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  98
+mu3:  119
+  
+Values of Output Variables
+bienAtendidos1:  307.333333333333
+bienAtendidos2:  889.333333333333
+malAtendidos1:  2.33333333333333
+malAtendidos2:  5.66666666666667
+  
+New Objective:  11525(Best = 11525)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 44
+6/6/2013 1:50:09 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  98
+mu3:  120
+  
+Values of Output Variables
+bienAtendidos1:  295
+bienAtendidos2:  888
+malAtendidos1:  12
+malAtendidos2:  10.3333333333333
+  
+New Objective:  11585(Best = 11525)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 45   ****NEW BEST SOLUTION****
+6/6/2013 1:50:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  90
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  307.333333333333
+bienAtendidos2:  878.333333333333
+malAtendidos1:  3.66666666666667
+malAtendidos2:  38
+  
+New Objective:  11475(Best = 11475)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 46
+6/6/2013 1:50:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  90
+mu3:  127
+  
+Values of Output Variables
+bienAtendidos1:  270.666666666667
+bienAtendidos2:  879
+malAtendidos1:  36.3333333333333
+malAtendidos2:  34.6666666666667
+  
+New Objective:  11445(Best = 11475)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 47   ****NEW BEST SOLUTION****
+6/6/2013 1:50:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  93
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  292
+bienAtendidos2:  897.666666666667
+malAtendidos1:  12.3333333333333
+malAtendidos2:  2
+  
+New Objective:  11460(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 48
+6/6/2013 1:50:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  95
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  269.333333333333
+bienAtendidos2:  884
+malAtendidos1:  23
+malAtendidos2:  17
+  
+New Objective:  11510(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 49
+6/6/2013 1:50:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  51
+mu2:  115
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  216.666666666667
+bienAtendidos2:  713
+malAtendidos1:  75.6666666666667
+malAtendidos2:  191.333333333333
+  
+New Objective:  11410(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 50
+6/6/2013 1:50:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  96
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  226.333333333333
+bienAtendidos2:  591.666666666667
+malAtendidos1:  75
+malAtendidos2:  290.666666666667
+  
+New Objective:  10950(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 51
+6/6/2013 1:50:20 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  118
+mu3:  123
+  
+Values of Output Variables
+bienAtendidos1:  282.333333333333
+bienAtendidos2:  875
+malAtendidos1:  15.3333333333333
+malAtendidos2:  0
+  
+New Objective:  12085(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 52
+6/6/2013 1:50:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  90
+mu3:  129
+  
+Values of Output Variables
+bienAtendidos1:  285.333333333333
+bienAtendidos2:  889.333333333333
+malAtendidos1:  23
+malAtendidos2:  25.3333333333333
+  
+New Objective:  11565(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 53
+6/6/2013 1:50:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  101
+mu3:  122
+  
+Values of Output Variables
+bienAtendidos1:  298.666666666667
+bienAtendidos2:  909
+malAtendidos1:  19.3333333333333
+malAtendidos2:  0
+  
+New Objective:  11600(Best = 11460)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 54   ****NEW BEST SOLUTION****
+6/6/2013 1:50:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  96
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  278.333333333333
+bienAtendidos2:  826.333333333333
+malAtendidos1:  14.6666666666667
+malAtendidos2:  76.3333333333333
+  
+New Objective:  11310(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 55
+6/6/2013 1:50:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  47
+mu2:  95
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  251.666666666667
+bienAtendidos2:  734.333333333333
+malAtendidos1:  51.3333333333333
+malAtendidos2:  166.333333333333
+  
+New Objective:  11210(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 56
+6/6/2013 1:50:27 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  47
+mu2:  95
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  300
+bienAtendidos2:  878.333333333333
+malAtendidos1:  4.33333333333333
+malAtendidos2:  13.6666666666667
+  
+New Objective:  11510(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 57
+6/6/2013 1:50:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  53
+mu2:  117
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  272.666666666667
+bienAtendidos2:  837.333333333333
+malAtendidos1:  15.3333333333333
+malAtendidos2:  41.3333333333333
+  
+New Objective:  11610(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 58
+6/6/2013 1:50:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  113
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  260
+bienAtendidos2:  785
+malAtendidos1:  33.6666666666667
+malAtendidos2:  87
+  
+New Objective:  11375(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 59
+6/6/2013 1:50:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  57
+mu2:  108
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  236.666666666667
+bienAtendidos2:  629.666666666667
+malAtendidos1:  71.6666666666667
+malAtendidos2:  242.333333333333
+  
+New Objective:  11385(Best = 11310)
+Nivel 1:  NonLinear infeasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 60   ****NEW BEST SOLUTION****
+6/6/2013 1:50:33 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  105
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  304
+bienAtendidos2:  867.666666666667
+malAtendidos1:  6.66666666666667
+malAtendidos2:  15
+  
+New Objective:  11160(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 61
+6/6/2013 1:50:34 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  245.333333333333
+bienAtendidos2:  755
+malAtendidos1:  68.6666666666667
+malAtendidos2:  149.666666666667
+  
+New Objective:  11025(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 62
+6/6/2013 1:50:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  47
+mu2:  107
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  271.666666666667
+bienAtendidos2:  832.333333333333
+malAtendidos1:  22.6666666666667
+malAtendidos2:  40.6666666666667
+  
+New Objective:  11570(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 63
+6/6/2013 1:50:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  58
+mu2:  96
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  284.666666666667
+bienAtendidos2:  772.333333333333
+malAtendidos1:  16.3333333333333
+malAtendidos2:  83.6666666666667
+  
+New Objective:  11190(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 64
+6/6/2013 1:50:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  50
+mu2:  103
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  297.333333333333
+bienAtendidos2:  868.333333333333
+malAtendidos1:  8.33333333333333
+malAtendidos2:  12.3333333333333
+  
+New Objective:  11365(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 65
+6/6/2013 1:50:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  128
+mu3:  124
+  
+Values of Output Variables
+bienAtendidos1:  295.666666666667
+bienAtendidos2:  886
+malAtendidos1:  1
+malAtendidos2:  0
+  
+New Objective:  12530(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 66
+6/6/2013 1:50:42 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  92
+mu3:  131
+  
+Values of Output Variables
+bienAtendidos1:  310.666666666667
+bienAtendidos2:  898
+malAtendidos1:  0
+malAtendidos2:  15
+  
+New Objective:  13940(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 67
+6/6/2013 1:50:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  106
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  281.666666666667
+bienAtendidos2:  814.666666666667
+malAtendidos1:  28.6666666666667
+malAtendidos2:  99.6666666666667
+  
+New Objective:  11185(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 68
+6/6/2013 1:50:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  223.666666666667
+bienAtendidos2:  710
+malAtendidos1:  81.6666666666667
+malAtendidos2:  224
+  
+New Objective:  11085(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 69
+6/6/2013 1:50:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  105
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  280
+bienAtendidos2:  852.333333333333
+malAtendidos1:  23
+malAtendidos2:  23.6666666666667
+  
+New Objective:  11100(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 70
+6/6/2013 1:50:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  130
+mu3:  121
+  
+Values of Output Variables
+bienAtendidos1:  289
+bienAtendidos2:  894
+malAtendidos1:  5.33333333333333
+malAtendidos2:  0
+  
+New Objective:  12265(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 71
+6/6/2013 1:50:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  103
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  234
+bienAtendidos2:  716.666666666667
+malAtendidos1:  73.3333333333333
+malAtendidos2:  187
+  
+New Objective:  11380(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 72
+6/6/2013 1:50:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  103
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  274.666666666667
+bienAtendidos2:  802
+malAtendidos1:  34
+malAtendidos2:  95.3333333333333
+  
+New Objective:  11200(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 73
+6/6/2013 1:50:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  100
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  250.666666666667
+bienAtendidos2:  807
+malAtendidos1:  53.6666666666667
+malAtendidos2:  114.666666666667
+  
+New Objective:  10990(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 74
+6/6/2013 1:50:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  101
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  290.666666666667
+bienAtendidos2:  849.666666666667
+malAtendidos1:  25.3333333333333
+malAtendidos2:  47.6666666666667
+  
+New Objective:  11000(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 75
+6/6/2013 1:50:56 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  101
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  268.333333333333
+bienAtendidos2:  868.333333333333
+malAtendidos1:  27
+malAtendidos2:  48.3333333333333
+  
+New Objective:  11180(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 76
+6/6/2013 1:50:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  55
+mu2:  96
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  243.666666666667
+bienAtendidos2:  706.666666666667
+malAtendidos1:  52
+malAtendidos2:  193
+  
+New Objective:  11295(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 77
+6/6/2013 1:50:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  96
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  224.333333333333
+bienAtendidos2:  624
+malAtendidos1:  82
+malAtendidos2:  239.666666666667
+  
+New Objective:  11190(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 78
+6/6/2013 1:51:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  96
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  289.333333333333
+bienAtendidos2:  830
+malAtendidos1:  17
+malAtendidos2:  59.3333333333333
+  
+New Objective:  11250(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 79
+6/6/2013 1:51:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  99
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  276.333333333333
+bienAtendidos2:  769.666666666667
+malAtendidos1:  33.6666666666667
+malAtendidos2:  108.333333333333
+  
+New Objective:  11205(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 80
+6/6/2013 1:51:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  129
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  271.666666666667
+bienAtendidos2:  880.333333333333
+malAtendidos1:  27.3333333333333
+malAtendidos2:  3.66666666666667
+  
+New Objective:  11820(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 81
+6/6/2013 1:51:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  107
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  246.333333333333
+bienAtendidos2:  701
+malAtendidos1:  49
+malAtendidos2:  178.333333333333
+  
+New Objective:  12500(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 82
+6/6/2013 1:51:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  104
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  291
+bienAtendidos2:  819
+malAtendidos1:  23.6666666666667
+malAtendidos2:  47.3333333333333
+  
+New Objective:  11135(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 83
+6/6/2013 1:51:07 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  130
+mu3:  119
+  
+Values of Output Variables
+bienAtendidos1:  258.666666666667
+bienAtendidos2:  857.333333333333
+malAtendidos1:  41
+malAtendidos2:  52
+  
+New Objective:  12145(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 84
+6/6/2013 1:51:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  104
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  274.666666666667
+bienAtendidos2:  865.333333333333
+malAtendidos1:  16.6666666666667
+malAtendidos2:  22.6666666666667
+  
+New Objective:  11075(Best = 11160)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 85   ****NEW BEST SOLUTION****
+6/6/2013 1:51:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  296.666666666667
+bienAtendidos2:  866
+malAtendidos1:  3.33333333333333
+malAtendidos2:  12.6666666666667
+  
+New Objective:  11045(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 86
+6/6/2013 1:51:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  101
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  258.333333333333
+bienAtendidos2:  802
+malAtendidos1:  40.6666666666667
+malAtendidos2:  92.3333333333333
+  
+New Objective:  11090(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 87
+6/6/2013 1:51:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  101
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  258.666666666667
+bienAtendidos2:  775.666666666667
+malAtendidos1:  55
+malAtendidos2:  123
+  
+New Objective:  11030(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 88
+6/6/2013 1:51:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  100
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  236.666666666667
+bienAtendidos2:  807
+malAtendidos1:  59
+malAtendidos2:  117.666666666667
+  
+New Objective:  10945(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 89
+6/6/2013 1:51:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  103
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  278
+bienAtendidos2:  877
+malAtendidos1:  29.6666666666667
+malAtendidos2:  25
+  
+New Objective:  11095(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 90
+6/6/2013 1:51:18 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  130
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  182
+bienAtendidos2:  582.666666666667
+malAtendidos1:  117.666666666667
+malAtendidos2:  272.333333333333
+  
+New Objective:  10915(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 91
+6/6/2013 1:51:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  114
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  130.333333333333
+bienAtendidos2:  391.333333333333
+malAtendidos1:  163.333333333333
+malAtendidos2:  467.333333333333
+  
+New Objective:  12675(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 92
+6/6/2013 1:51:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  106
+mu3:  122
+  
+Values of Output Variables
+bienAtendidos1:  283.666666666667
+bienAtendidos2:  886.333333333333
+malAtendidos1:  16
+malAtendidos2:  0
+  
+New Objective:  11545(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 93
+6/6/2013 1:51:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  254
+bienAtendidos2:  784
+malAtendidos1:  52.6666666666667
+malAtendidos2:  120
+  
+New Objective:  11070(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 94
+6/6/2013 1:51:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  100
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  274.666666666667
+bienAtendidos2:  882
+malAtendidos1:  18.6666666666667
+malAtendidos2:  26
+  
+New Objective:  11005(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 95
+6/6/2013 1:51:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  102
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  284.666666666667
+bienAtendidos2:  839.333333333333
+malAtendidos1:  13
+malAtendidos2:  49
+  
+New Objective:  11115(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 96
+6/6/2013 1:51:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  130
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  168.666666666667
+bienAtendidos2:  496
+malAtendidos1:  121.333333333333
+malAtendidos2:  358.666666666667
+  
+New Objective:  10825(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 97
+6/6/2013 1:51:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  90
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  232.333333333333
+bienAtendidos2:  573.666666666667
+malAtendidos1:  69.6666666666667
+malAtendidos2:  308
+  
+New Objective:  12315(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 98
+6/6/2013 1:51:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  282.333333333333
+bienAtendidos2:  823
+malAtendidos1:  26.3333333333333
+malAtendidos2:  63.6666666666667
+  
+New Objective:  11130(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 99
+6/6/2013 1:51:31 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  267.333333333333
+bienAtendidos2:  788
+malAtendidos1:  53.6666666666667
+malAtendidos2:  103.333333333333
+  
+New Objective:  10985(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 100
+6/6/2013 1:51:33 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  100
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  285.333333333333
+bienAtendidos2:  914
+malAtendidos1:  13
+malAtendidos2:  18.3333333333333
+  
+New Objective:  11065(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 101
+6/6/2013 1:51:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  106
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  291
+bienAtendidos2:  880.666666666667
+malAtendidos1:  12.3333333333333
+malAtendidos2:  2
+  
+New Objective:  11245(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 102
+6/6/2013 1:51:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  110
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  262.666666666667
+bienAtendidos2:  830.666666666667
+malAtendidos1:  47.6666666666667
+malAtendidos2:  67
+  
+New Objective:  11045(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 103
+6/6/2013 1:51:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  109
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  266.333333333333
+bienAtendidos2:  794.666666666667
+malAtendidos1:  43
+malAtendidos2:  97
+  
+New Objective:  11125(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 104
+6/6/2013 1:51:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  116
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  141
+bienAtendidos2:  441
+malAtendidos1:  154
+malAtendidos2:  414.333333333333
+  
+New Objective:  10670(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 105
+6/6/2013 1:51:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  120
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  165
+bienAtendidos2:  528.333333333333
+malAtendidos1:  135.666666666667
+malAtendidos2:  355.333333333333
+  
+New Objective:  10665(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 106
+6/6/2013 1:51:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  106
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  262.333333333333
+bienAtendidos2:  838.666666666667
+malAtendidos1:  37.6666666666667
+malAtendidos2:  54.6666666666667
+  
+New Objective:  10990(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 107
+6/6/2013 1:51:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  130
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  219.666666666667
+bienAtendidos2:  689.666666666667
+malAtendidos1:  81
+malAtendidos2:  168.666666666667
+  
+New Objective:  11230(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 108
+6/6/2013 1:51:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  90
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  244.333333333333
+bienAtendidos2:  576
+malAtendidos1:  67
+malAtendidos2:  281.666666666667
+  
+New Objective:  12135(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 109
+6/6/2013 1:51:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  279.333333333333
+bienAtendidos2:  830
+malAtendidos1:  26
+malAtendidos2:  66
+  
+New Objective:  11020(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 110
+6/6/2013 1:51:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  303.333333333333
+bienAtendidos2:  859
+malAtendidos1:  13
+malAtendidos2:  36.6666666666667
+  
+New Objective:  11140(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 111
+6/6/2013 1:51:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  104
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  269.333333333333
+bienAtendidos2:  810.666666666667
+malAtendidos1:  40.6666666666667
+malAtendidos2:  83
+  
+New Objective:  11000(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 112
+6/6/2013 1:51:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  90
+mu3:  119
+  
+Values of Output Variables
+bienAtendidos1:  296.666666666667
+bienAtendidos2:  867.333333333333
+malAtendidos1:  5.66666666666667
+malAtendidos2:  14.3333333333333
+  
+New Objective:  11190(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 113
+6/6/2013 1:51:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  105
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  259.666666666667
+bienAtendidos2:  831
+malAtendidos1:  33.6666666666667
+malAtendidos2:  78.3333333333333
+  
+New Objective:  10920(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 114
+6/6/2013 1:51:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  107
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  218.333333333333
+bienAtendidos2:  706
+malAtendidos1:  95.6666666666667
+malAtendidos2:  183
+  
+New Objective:  10910(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 115
+6/6/2013 1:51:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  108
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  283
+bienAtendidos2:  835.666666666667
+malAtendidos1:  24.3333333333333
+malAtendidos2:  34
+  
+New Objective:  10875(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 116
+6/6/2013 1:51:56 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  107
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  250.666666666667
+bienAtendidos2:  822
+malAtendidos1:  41
+malAtendidos2:  65
+  
+New Objective:  10835(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 117
+6/6/2013 1:51:58 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  119
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  246.666666666667
+bienAtendidos2:  733
+malAtendidos1:  59
+malAtendidos2:  127.666666666667
+  
+New Objective:  10640(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 118
+6/6/2013 1:52:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  112
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  195.666666666667
+bienAtendidos2:  630
+malAtendidos1:  105.333333333333
+malAtendidos2:  235
+  
+New Objective:  10570(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 119
+6/6/2013 1:52:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  115
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  246.666666666667
+bienAtendidos2:  774
+malAtendidos1:  53.6666666666667
+malAtendidos2:  103
+  
+New Objective:  10705(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 120
+6/6/2013 1:52:02 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  208.666666666667
+bienAtendidos2:  698
+malAtendidos1:  88
+malAtendidos2:  194.666666666667
+  
+New Objective:  10900(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 121
+6/6/2013 1:52:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  129
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  115
+bienAtendidos2:  379.666666666667
+malAtendidos1:  184.333333333333
+malAtendidos2:  469.666666666667
+  
+New Objective:  10980(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 122
+6/6/2013 1:52:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  101
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  187
+bienAtendidos2:  490.333333333333
+malAtendidos1:  108.666666666667
+malAtendidos2:  353
+  
+New Objective:  12305(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 123
+6/6/2013 1:52:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  103
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  275.333333333333
+bienAtendidos2:  866
+malAtendidos1:  29
+malAtendidos2:  16.3333333333333
+  
+New Objective:  10975(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 124
+6/6/2013 1:52:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  286.666666666667
+bienAtendidos2:  806
+malAtendidos1:  22.3333333333333
+malAtendidos2:  51.6666666666667
+  
+New Objective:  10970(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 125
+6/6/2013 1:52:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  97
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  270.666666666667
+bienAtendidos2:  770.666666666667
+malAtendidos1:  39.6666666666667
+malAtendidos2:  119.333333333333
+  
+New Objective:  11005(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 126
+6/6/2013 1:52:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  236.333333333333
+bienAtendidos2:  798
+malAtendidos1:  64
+malAtendidos2:  95.6666666666667
+  
+New Objective:  10960(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 127
+6/6/2013 1:52:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  238
+bienAtendidos2:  664
+malAtendidos1:  73.3333333333333
+malAtendidos2:  203.333333333333
+  
+New Objective:  10745(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 128
+6/6/2013 1:52:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  281
+bienAtendidos2:  892
+malAtendidos1:  19.3333333333333
+malAtendidos2:  1.33333333333333
+  
+New Objective:  11200(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 129
+6/6/2013 1:52:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  119
+  
+Values of Output Variables
+bienAtendidos1:  290
+bienAtendidos2:  837.666666666667
+malAtendidos1:  12.6666666666667
+malAtendidos2:  68.6666666666667
+  
+New Objective:  11235(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 130
+6/6/2013 1:52:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  278.666666666667
+bienAtendidos2:  851.666666666667
+malAtendidos1:  26
+malAtendidos2:  41.3333333333333
+  
+New Objective:  10905(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 131
+6/6/2013 1:52:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  281.666666666667
+bienAtendidos2:  787
+malAtendidos1:  34
+malAtendidos2:  98.3333333333333
+  
+New Objective:  10785(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 132
+6/6/2013 1:52:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  108
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  262
+bienAtendidos2:  717.333333333333
+malAtendidos1:  67
+malAtendidos2:  138.666666666667
+  
+New Objective:  11055(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 133
+6/6/2013 1:52:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  238
+bienAtendidos2:  822.666666666667
+malAtendidos1:  71.3333333333333
+malAtendidos2:  83.6666666666667
+  
+New Objective:  10840(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 134
+6/6/2013 1:52:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  258
+bienAtendidos2:  770
+malAtendidos1:  49.6666666666667
+malAtendidos2:  113.333333333333
+  
+New Objective:  10780(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 135
+6/6/2013 1:52:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  114
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  181.666666666667
+bienAtendidos2:  603.333333333333
+malAtendidos1:  108
+malAtendidos2:  261.333333333333
+  
+New Objective:  10845(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 136
+6/6/2013 1:52:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  114
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  148
+bienAtendidos2:  506.333333333333
+malAtendidos1:  160.666666666667
+malAtendidos2:  362.666666666667
+  
+New Objective:  10680(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 137
+6/6/2013 1:52:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  117
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  163.333333333333
+bienAtendidos2:  627.666666666667
+malAtendidos1:  147.333333333333
+malAtendidos2:  236
+  
+New Objective:  10755(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 138
+6/6/2013 1:52:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  111
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  193
+bienAtendidos2:  653.333333333333
+malAtendidos1:  125.333333333333
+malAtendidos2:  214
+  
+New Objective:  10725(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 139
+6/6/2013 1:52:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  129
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  196
+bienAtendidos2:  696.666666666667
+malAtendidos1:  120.333333333333
+malAtendidos2:  152
+  
+New Objective:  10800(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 140
+6/6/2013 1:52:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  103
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  170.333333333333
+bienAtendidos2:  447
+malAtendidos1:  138
+malAtendidos2:  418
+  
+New Objective:  12400(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 141
+6/6/2013 1:52:34 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  103
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  287.666666666667
+bienAtendidos2:  824.333333333333
+malAtendidos1:  17
+malAtendidos2:  60
+  
+New Objective:  11035(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 142
+6/6/2013 1:52:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  285
+bienAtendidos2:  899.333333333333
+malAtendidos1:  21
+malAtendidos2:  4.66666666666667
+  
+New Objective:  11090(Best = 11045)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 143   ****NEW BEST SOLUTION****
+6/6/2013 1:52:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  300.333333333333
+bienAtendidos2:  869
+malAtendidos1:  11
+malAtendidos2:  20.6666666666667
+  
+New Objective:  10995(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 144
+6/6/2013 1:52:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  110
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  248.333333333333
+bienAtendidos2:  764
+malAtendidos1:  54.6666666666667
+malAtendidos2:  132.333333333333
+  
+New Objective:  10805(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 145
+6/6/2013 1:52:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  205
+bienAtendidos2:  586.333333333333
+malAtendidos1:  93.6666666666667
+malAtendidos2:  314
+  
+New Objective:  10565(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 146
+6/6/2013 1:52:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  111
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  292.666666666667
+bienAtendidos2:  915.666666666667
+malAtendidos1:  12.6666666666667
+malAtendidos2:  1.66666666666667
+  
+New Objective:  11205(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 147
+6/6/2013 1:52:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  90
+mu3:  121
+  
+Values of Output Variables
+bienAtendidos1:  284
+bienAtendidos2:  871.333333333333
+malAtendidos1:  13.3333333333333
+malAtendidos2:  42.3333333333333
+  
+New Objective:  11400(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 148
+6/6/2013 1:52:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  105
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  267.333333333333
+bienAtendidos2:  815.666666666667
+malAtendidos1:  37.6666666666667
+malAtendidos2:  72.3333333333333
+  
+New Objective:  10965(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 149
+6/6/2013 1:52:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  103
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  259
+bienAtendidos2:  791.333333333333
+malAtendidos1:  43.3333333333333
+malAtendidos2:  105.666666666667
+  
+New Objective:  10930(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 150
+6/6/2013 1:52:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  107
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  230
+bienAtendidos2:  716
+malAtendidos1:  74.6666666666667
+malAtendidos2:  170
+  
+New Objective:  11015(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 151
+6/6/2013 1:52:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  113
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  219.666666666667
+bienAtendidos2:  719
+malAtendidos1:  79.3333333333333
+malAtendidos2:  180.666666666667
+  
+New Objective:  10715(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 152
+6/6/2013 1:52:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  112
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  214.666666666667
+bienAtendidos2:  717.333333333333
+malAtendidos1:  75.3333333333333
+malAtendidos2:  164.333333333333
+  
+New Objective:  10690(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 153
+6/6/2013 1:52:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  116
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  261.666666666667
+bienAtendidos2:  840.333333333333
+malAtendidos1:  29.3333333333333
+malAtendidos2:  29.3333333333333
+  
+New Objective:  10790(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 154
+6/6/2013 1:52:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  114
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  151.666666666667
+bienAtendidos2:  489
+malAtendidos1:  156.333333333333
+malAtendidos2:  395.666666666667
+  
+New Objective:  10740(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 155
+6/6/2013 1:52:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  111
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  233.666666666667
+bienAtendidos2:  764
+malAtendidos1:  53
+malAtendidos2:  123.333333333333
+  
+New Objective:  10830(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 156
+6/6/2013 1:52:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  128
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  116.333333333333
+bienAtendidos2:  358.333333333333
+malAtendidos1:  179
+malAtendidos2:  508.333333333333
+  
+New Objective:  10775(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 157
+6/6/2013 1:52:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  90
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  222
+bienAtendidos2:  599.333333333333
+malAtendidos1:  79.6666666666667
+malAtendidos2:  263.333333333333
+  
+New Objective:  12090(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 158
+6/6/2013 1:52:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  277.666666666667
+bienAtendidos2:  847.333333333333
+malAtendidos1:  29.6666666666667
+malAtendidos2:  64.3333333333333
+  
+New Objective:  10950(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 159
+6/6/2013 1:53:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  96
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  268.333333333333
+bienAtendidos2:  830.666666666667
+malAtendidos1:  37
+malAtendidos2:  54.6666666666667
+  
+New Objective:  10980(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 160
+6/6/2013 1:53:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  92
+mu3:  115
+  
+Values of Output Variables
+bienAtendidos1:  259
+bienAtendidos2:  832.666666666667
+malAtendidos1:  27
+malAtendidos2:  75.6666666666667
+  
+New Objective:  11000(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 161
+6/6/2013 1:53:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  110
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  291.666666666667
+bienAtendidos2:  865.666666666667
+malAtendidos1:  21.3333333333333
+malAtendidos2:  10.3333333333333
+  
+New Objective:  10925(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 162
+6/6/2013 1:53:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  294.666666666667
+bienAtendidos2:  860
+malAtendidos1:  7.33333333333333
+malAtendidos2:  30.3333333333333
+  
+New Objective:  11115(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 163
+6/6/2013 1:53:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  241.666666666667
+bienAtendidos2:  686.333333333333
+malAtendidos1:  69.6666666666667
+malAtendidos2:  222
+  
+New Objective:  10900(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 164
+6/6/2013 1:53:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  112
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  133.333333333333
+bienAtendidos2:  448.333333333333
+malAtendidos1:  162.666666666667
+malAtendidos2:  443
+  
+New Objective:  10855(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 165
+6/6/2013 1:53:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  111
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  171.333333333333
+bienAtendidos2:  569
+malAtendidos1:  129
+malAtendidos2:  312.666666666667
+  
+New Objective:  10770(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 166
+6/6/2013 1:53:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  115
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  250.666666666667
+bienAtendidos2:  807
+malAtendidos1:  26
+malAtendidos2:  73
+  
+New Objective:  10765(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 167
+6/6/2013 1:53:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  127
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  190.666666666667
+bienAtendidos2:  632.333333333333
+malAtendidos1:  117.666666666667
+malAtendidos2:  253.666666666667
+  
+New Objective:  10750(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 168
+6/6/2013 1:53:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  83
+mu2:  90
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  197.333333333333
+bienAtendidos2:  491.666666666667
+malAtendidos1:  101.333333333333
+malAtendidos2:  383
+  
+New Objective:  12105(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 169
+6/6/2013 1:53:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  263.666666666667
+bienAtendidos2:  843.333333333333
+malAtendidos1:  43
+malAtendidos2:  59
+  
+New Objective:  10865(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 170
+6/6/2013 1:53:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  115
+  
+Values of Output Variables
+bienAtendidos1:  285.333333333333
+bienAtendidos2:  833.333333333333
+malAtendidos1:  24
+malAtendidos2:  65.6666666666667
+  
+New Objective:  11150(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 171
+6/6/2013 1:53:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  116
+  
+Values of Output Variables
+bienAtendidos1:  289.666666666667
+bienAtendidos2:  876.333333333333
+malAtendidos1:  0.666666666666667
+malAtendidos2:  3.66666666666667
+  
+New Objective:  11055(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 172
+6/6/2013 1:53:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  113
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  275
+bienAtendidos2:  865.666666666667
+malAtendidos1:  26.6666666666667
+malAtendidos2:  23
+  
+New Objective:  10775(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 173
+6/6/2013 1:53:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  250
+bienAtendidos2:  816.333333333333
+malAtendidos1:  47.6666666666667
+malAtendidos2:  72.6666666666667
+  
+New Objective:  10890(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 174
+6/6/2013 1:53:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  114
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  245
+bienAtendidos2:  782.666666666667
+malAtendidos1:  46.3333333333333
+malAtendidos2:  85
+  
+New Objective:  10800(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 175
+6/6/2013 1:53:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  108
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  129.666666666667
+bienAtendidos2:  446.666666666667
+malAtendidos1:  169.666666666667
+malAtendidos2:  454.333333333333
+  
+New Objective:  10635(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 176
+6/6/2013 1:53:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  110
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  247.666666666667
+bienAtendidos2:  780.666666666667
+malAtendidos1:  55
+malAtendidos2:  88.3333333333333
+  
+New Objective:  10745(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 177
+6/6/2013 1:53:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  107
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  250
+bienAtendidos2:  756
+malAtendidos1:  50.3333333333333
+malAtendidos2:  106
+  
+New Objective:  10790(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 178
+6/6/2013 1:53:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  107
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  220.666666666667
+bienAtendidos2:  686
+malAtendidos1:  90
+malAtendidos2:  196.666666666667
+  
+New Objective:  10850(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 179
+6/6/2013 1:53:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  126
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  192.666666666667
+bienAtendidos2:  732.666666666667
+malAtendidos1:  104
+malAtendidos2:  116.666666666667
+  
+New Objective:  10725(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 180
+6/6/2013 1:53:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  90
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  237.666666666667
+bienAtendidos2:  631.333333333333
+malAtendidos1:  50
+malAtendidos2:  252.333333333333
+  
+New Objective:  12195(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 181
+6/6/2013 1:53:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  94
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  276
+bienAtendidos2:  789.333333333333
+malAtendidos1:  17
+malAtendidos2:  105.333333333333
+  
+New Objective:  10915(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 182
+6/6/2013 1:53:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  105
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  252.333333333333
+bienAtendidos2:  749.333333333333
+malAtendidos1:  41
+malAtendidos2:  146.666666666667
+  
+New Objective:  10860(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 183
+6/6/2013 1:53:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  99
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  215.666666666667
+bienAtendidos2:  752.666666666667
+malAtendidos1:  78.3333333333333
+malAtendidos2:  178
+  
+New Objective:  10650(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 184
+6/6/2013 1:53:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  107
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  281.333333333333
+bienAtendidos2:  865.666666666667
+malAtendidos1:  29
+malAtendidos2:  26.3333333333333
+  
+New Objective:  11195(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 185
+6/6/2013 1:53:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  294.666666666667
+bienAtendidos2:  898.333333333333
+malAtendidos1:  6
+malAtendidos2:  4.33333333333333
+  
+New Objective:  11175(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 186
+6/6/2013 1:53:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  249.333333333333
+bienAtendidos2:  787
+malAtendidos1:  57
+malAtendidos2:  105.666666666667
+  
+New Objective:  10840(Best = 10995)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 187   ****NEW BEST SOLUTION****
+6/6/2013 1:53:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  281.333333333333
+bienAtendidos2:  863.333333333333
+malAtendidos1:  13.3333333333333
+malAtendidos2:  22
+  
+New Objective:  10805(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 188
+6/6/2013 1:53:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  107
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  177.666666666667
+bienAtendidos2:  582.666666666667
+malAtendidos1:  129
+malAtendidos2:  315
+  
+New Objective:  10730(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 189
+6/6/2013 1:53:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  109
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  261
+bienAtendidos2:  774.333333333333
+malAtendidos1:  46.6666666666667
+malAtendidos2:  98
+  
+New Objective:  10720(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 190
+6/6/2013 1:53:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  106
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  204
+bienAtendidos2:  716.333333333333
+malAtendidos1:  84
+malAtendidos2:  189
+  
+New Objective:  10765(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 191
+6/6/2013 1:53:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  124
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  211.666666666667
+bienAtendidos2:  672.333333333333
+malAtendidos1:  81
+malAtendidos2:  194.666666666667
+  
+New Objective:  10675(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 192
+6/6/2013 1:53:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  192.666666666667
+bienAtendidos2:  496.666666666667
+malAtendidos1:  104.666666666667
+malAtendidos2:  351.333333333333
+  
+New Objective:  12030(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 193
+6/6/2013 1:53:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  260
+bienAtendidos2:  790
+malAtendidos1:  38
+malAtendidos2:  88.6666666666667
+  
+New Objective:  10830(Best = 10805)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 194   ****NEW BEST SOLUTION****
+6/6/2013 1:53:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  291
+bienAtendidos2:  863
+malAtendidos1:  7.33333333333333
+malAtendidos2:  6
+  
+New Objective:  10790(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 195
+6/6/2013 1:53:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  97
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  245.333333333333
+bienAtendidos2:  734.666666666667
+malAtendidos1:  54.3333333333333
+malAtendidos2:  137.666666666667
+  
+New Objective:  10765(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 196
+6/6/2013 1:53:56 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  105
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  269
+bienAtendidos2:  835
+malAtendidos1:  36.3333333333333
+malAtendidos2:  56.3333333333333
+  
+New Objective:  10800(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 197
+6/6/2013 1:53:58 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  240.333333333333
+bienAtendidos2:  715.333333333333
+malAtendidos1:  67.3333333333333
+malAtendidos2:  157
+  
+New Objective:  10685(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 198
+6/6/2013 1:53:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  106
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  209.333333333333
+bienAtendidos2:  645
+malAtendidos1:  98.3333333333333
+malAtendidos2:  260.333333333333
+  
+New Objective:  10885(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 199
+6/6/2013 1:54:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  90
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  275.666666666667
+bienAtendidos2:  797
+malAtendidos1:  19.3333333333333
+malAtendidos2:  90.6666666666667
+  
+New Objective:  10860(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 200
+6/6/2013 1:54:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  248.333333333333
+bienAtendidos2:  758.666666666667
+malAtendidos1:  55.6666666666667
+malAtendidos2:  123.333333333333
+  
+New Objective:  10770(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 201
+6/6/2013 1:54:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  104
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  245
+bienAtendidos2:  737
+malAtendidos1:  63.3333333333333
+malAtendidos2:  178.333333333333
+  
+New Objective:  10775(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 202
+6/6/2013 1:54:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  122
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  167
+bienAtendidos2:  590.333333333333
+malAtendidos1:  135
+malAtendidos2:  271.666666666667
+  
+New Objective:  10625(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 203
+6/6/2013 1:54:07 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  83
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  231.333333333333
+bienAtendidos2:  597.666666666667
+malAtendidos1:  65.6666666666667
+malAtendidos2:  255
+  
+New Objective:  11985(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 204
+6/6/2013 1:54:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  246
+bienAtendidos2:  810.333333333333
+malAtendidos1:  52.3333333333333
+malAtendidos2:  83.3333333333333
+  
+New Objective:  10815(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 205
+6/6/2013 1:54:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  94
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  257.333333333333
+bienAtendidos2:  709.666666666667
+malAtendidos1:  50
+malAtendidos2:  183.333333333333
+  
+New Objective:  10795(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 206
+6/6/2013 1:54:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  103
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  262.333333333333
+bienAtendidos2:  803.333333333333
+malAtendidos1:  35.3333333333333
+malAtendidos2:  78.3333333333333
+  
+New Objective:  10810(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 207
+6/6/2013 1:54:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  267.666666666667
+bienAtendidos2:  806.666666666667
+malAtendidos1:  26
+malAtendidos2:  61.6666666666667
+  
+New Objective:  10670(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 208
+6/6/2013 1:54:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  104
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  217.666666666667
+bienAtendidos2:  687.333333333333
+malAtendidos1:  90
+malAtendidos2:  208.333333333333
+  
+New Objective:  10895(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 209
+6/6/2013 1:54:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  272.333333333333
+bienAtendidos2:  815
+malAtendidos1:  24.6666666666667
+malAtendidos2:  72.6666666666667
+  
+New Objective:  10815(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 210
+6/6/2013 1:54:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  215.333333333333
+bienAtendidos2:  639.666666666667
+malAtendidos1:  85
+malAtendidos2:  264.666666666667
+  
+New Objective:  10730(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 211
+6/6/2013 1:54:18 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  103
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  228.666666666667
+bienAtendidos2:  672.333333333333
+malAtendidos1:  85
+malAtendidos2:  214.333333333333
+  
+New Objective:  10750(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 212
+6/6/2013 1:54:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  283.666666666667
+bienAtendidos2:  818
+malAtendidos1:  15.3333333333333
+malAtendidos2:  19.6666666666667
+  
+New Objective:  10780(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 213
+6/6/2013 1:54:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  239.666666666667
+bienAtendidos2:  725.333333333333
+malAtendidos1:  64.6666666666667
+malAtendidos2:  180.333333333333
+  
+New Objective:  10720(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 214
+6/6/2013 1:54:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  121
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  122
+bienAtendidos2:  447.666666666667
+malAtendidos1:  174
+malAtendidos2:  403.666666666667
+  
+New Objective:  10600(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 215
+6/6/2013 1:54:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  82
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  206.333333333333
+bienAtendidos2:  539
+malAtendidos1:  90
+malAtendidos2:  313
+  
+New Objective:  11940(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 216
+6/6/2013 1:54:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  97
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  231.666666666667
+bienAtendidos2:  757
+malAtendidos1:  79
+malAtendidos2:  131.666666666667
+  
+New Objective:  10825(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 217
+6/6/2013 1:54:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  90
+mu3:  117
+  
+Values of Output Variables
+bienAtendidos1:  296
+bienAtendidos2:  871.333333333333
+malAtendidos1:  8.66666666666667
+malAtendidos2:  4
+  
+New Objective:  11070(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 218
+6/6/2013 1:54:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  236
+bienAtendidos2:  762.666666666667
+malAtendidos1:  72
+malAtendidos2:  115.666666666667
+  
+New Objective:  10755(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 219
+6/6/2013 1:54:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  101
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  147
+bienAtendidos2:  475.666666666667
+malAtendidos1:  153.666666666667
+malAtendidos2:  423.666666666667
+  
+New Objective:  10700(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 220
+6/6/2013 1:54:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  118
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  176.333333333333
+bienAtendidos2:  616
+malAtendidos1:  115.333333333333
+malAtendidos2:  271.666666666667
+  
+New Objective:  10525(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 221
+6/6/2013 1:54:34 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  81
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  207.333333333333
+bienAtendidos2:  529.333333333333
+malAtendidos1:  90.3333333333333
+malAtendidos2:  350.333333333333
+  
+New Objective:  11895(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 222
+6/6/2013 1:54:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  249.333333333333
+bienAtendidos2:  777.666666666667
+malAtendidos1:  49.6666666666667
+malAtendidos2:  116
+  
+New Objective:  10850(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 223
+6/6/2013 1:54:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  100
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  241.666666666667
+bienAtendidos2:  784.666666666667
+malAtendidos1:  66.3333333333333
+malAtendidos2:  110
+  
+New Objective:  10675(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 224
+6/6/2013 1:54:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  98
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  251
+bienAtendidos2:  791.666666666667
+malAtendidos1:  41.3333333333333
+malAtendidos2:  102
+  
+New Objective:  10625(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 225
+6/6/2013 1:54:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  90
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  291.333333333333
+bienAtendidos2:  867.333333333333
+malAtendidos1:  5.33333333333333
+malAtendidos2:  28.6666666666667
+  
+New Objective:  11025(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 226
+6/6/2013 1:54:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  236.333333333333
+bienAtendidos2:  735.333333333333
+malAtendidos1:  62.3333333333333
+malAtendidos2:  156.666666666667
+  
+New Objective:  10610(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 227
+6/6/2013 1:54:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  105
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  214.333333333333
+bienAtendidos2:  688.666666666667
+malAtendidos1:  101.666666666667
+malAtendidos2:  184.333333333333
+  
+New Objective:  10755(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 228
+6/6/2013 1:54:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  104
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  229
+bienAtendidos2:  690.666666666667
+malAtendidos1:  63
+malAtendidos2:  173.666666666667
+  
+New Objective:  10730(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 229
+6/6/2013 1:54:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  111
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  265.666666666667
+bienAtendidos2:  824.666666666667
+malAtendidos1:  36.3333333333333
+malAtendidos2:  37.3333333333333
+  
+New Objective:  10575(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 230
+6/6/2013 1:54:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  104
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  244
+bienAtendidos2:  769.333333333333
+malAtendidos1:  50.3333333333333
+malAtendidos2:  127.666666666667
+  
+New Objective:  10715(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 231
+6/6/2013 1:54:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  116
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  88.6666666666667
+bienAtendidos2:  345.666666666667
+malAtendidos1:  206.666666666667
+malAtendidos2:  513.666666666667
+  
+New Objective:  10475(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 232
+6/6/2013 1:54:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  80
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  149.333333333333
+bienAtendidos2:  335
+malAtendidos1:  144.333333333333
+malAtendidos2:  534.333333333333
+  
+New Objective:  11850(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 233
+6/6/2013 1:54:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  95
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  282
+bienAtendidos2:  839
+malAtendidos1:  20
+malAtendidos2:  56.6666666666667
+  
+New Objective:  10715(Best = 10790)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 234   ****NEW BEST SOLUTION****
+6/6/2013 1:54:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  281
+bienAtendidos2:  868.333333333333
+malAtendidos1:  11.6666666666667
+malAtendidos2:  17
+  
+New Objective:  10665(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 235
+6/6/2013 1:54:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  103
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  219
+bienAtendidos2:  709.666666666667
+malAtendidos1:  83.6666666666667
+malAtendidos2:  164.666666666667
+  
+New Objective:  10690(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 236
+6/6/2013 1:54:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  216
+bienAtendidos2:  714.333333333333
+malAtendidos1:  77
+malAtendidos2:  179.333333333333
+  
+New Objective:  10565(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 237
+6/6/2013 1:54:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  104
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  259.666666666667
+bienAtendidos2:  842
+malAtendidos1:  41.6666666666667
+malAtendidos2:  67.6666666666667
+  
+New Objective:  10940(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 238
+6/6/2013 1:54:58 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  113
+  
+Values of Output Variables
+bienAtendidos1:  258.333333333333
+bienAtendidos2:  794.666666666667
+malAtendidos1:  45.3333333333333
+malAtendidos2:  111
+  
+New Objective:  10875(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 239
+6/6/2013 1:54:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  100
+mu3:  109
+  
+Values of Output Variables
+bienAtendidos1:  270.333333333333
+bienAtendidos2:  851.666666666667
+malAtendidos1:  24
+malAtendidos2:  35.3333333333333
+  
+New Objective:  10795(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 240
+6/6/2013 1:55:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  105
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  236.666666666667
+bienAtendidos2:  761
+malAtendidos1:  54.3333333333333
+malAtendidos2:  135.333333333333
+  
+New Objective:  10635(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 241
+6/6/2013 1:55:02 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  108
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  136.666666666667
+bienAtendidos2:  501
+malAtendidos1:  175
+malAtendidos2:  387.666666666667
+  
+New Objective:  10605(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 242
+6/6/2013 1:55:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  104
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  172.333333333333
+bienAtendidos2:  516
+malAtendidos1:  133.333333333333
+malAtendidos2:  364.333333333333
+  
+New Objective:  10670(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 243
+6/6/2013 1:55:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  111
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  179.666666666667
+bienAtendidos2:  689.666666666667
+malAtendidos1:  120.333333333333
+malAtendidos2:  190.666666666667
+  
+New Objective:  10350(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 244
+6/6/2013 1:55:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  78
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  108.333333333333
+bienAtendidos2:  269.333333333333
+malAtendidos1:  191.333333333333
+malAtendidos2:  599
+  
+New Objective:  11760(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 245
+6/6/2013 1:55:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  182.333333333333
+bienAtendidos2:  538.666666666667
+malAtendidos1:  123.666666666667
+malAtendidos2:  345.666666666667
+  
+New Objective:  10725(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 246
+6/6/2013 1:55:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  100
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  219.333333333333
+bienAtendidos2:  677.666666666667
+malAtendidos1:  88.3333333333333
+malAtendidos2:  217.666666666667
+  
+New Objective:  10660(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 247
+6/6/2013 1:55:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  107
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  192.666666666667
+bienAtendidos2:  657
+malAtendidos1:  122.666666666667
+malAtendidos2:  214
+  
+New Objective:  10580(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 248
+6/6/2013 1:55:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  90
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  238
+bienAtendidos2:  722.333333333333
+malAtendidos1:  60
+malAtendidos2:  160.333333333333
+  
+New Objective:  10785(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 249
+6/6/2013 1:55:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  106
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  203.333333333333
+bienAtendidos2:  630.333333333333
+malAtendidos1:  102.333333333333
+malAtendidos2:  252.666666666667
+  
+New Objective:  10660(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 250
+6/6/2013 1:55:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  107
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  213
+bienAtendidos2:  671
+malAtendidos1:  91.6666666666667
+malAtendidos2:  217.666666666667
+  
+New Objective:  10640(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 251
+6/6/2013 1:55:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  103
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  192.333333333333
+bienAtendidos2:  588
+malAtendidos1:  110.333333333333
+malAtendidos2:  287
+  
+New Objective:  10585(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 252
+6/6/2013 1:55:18 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  100
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  243.666666666667
+bienAtendidos2:  771
+malAtendidos1:  52.6666666666667
+malAtendidos2:  114
+  
+New Objective:  10615(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 253
+6/6/2013 1:55:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  110
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  113.666666666667
+bienAtendidos2:  387.333333333333
+malAtendidos1:  189.333333333333
+malAtendidos2:  458.333333333333
+  
+New Objective:  10325(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 254
+6/6/2013 1:55:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  76
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  144.666666666667
+bienAtendidos2:  416.333333333333
+malAtendidos1:  145.666666666667
+malAtendidos2:  443
+  
+New Objective:  11670(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 255
+6/6/2013 1:55:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  101
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  202
+bienAtendidos2:  627
+malAtendidos1:  97
+malAtendidos2:  251.333333333333
+  
+New Objective:  10640(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 256
+6/6/2013 1:55:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  130
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  282.333333333333
+bienAtendidos2:  850
+malAtendidos1:  19.6666666666667
+malAtendidos2:  15
+  
+New Objective:  11365(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 257
+6/6/2013 1:55:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  103
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  214.333333333333
+bienAtendidos2:  694.666666666667
+malAtendidos1:  84.3333333333333
+malAtendidos2:  189.333333333333
+  
+New Objective:  10645(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 258
+6/6/2013 1:55:27 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  104
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  193.666666666667
+bienAtendidos2:  647.333333333333
+malAtendidos1:  113.333333333333
+malAtendidos2:  254.333333333333
+  
+New Objective:  10610(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 259
+6/6/2013 1:55:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  103
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  126
+bienAtendidos2:  481.333333333333
+malAtendidos1:  172.666666666667
+malAtendidos2:  397.333333333333
+  
+New Objective:  10150(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 260
+6/6/2013 1:55:31 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  75
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  221
+bienAtendidos2:  484.333333333333
+malAtendidos1:  75.6666666666667
+malAtendidos2:  386.666666666667
+  
+New Objective:  11625(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 261
+6/6/2013 1:55:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  223.333333333333
+bienAtendidos2:  694.666666666667
+malAtendidos1:  83.3333333333333
+malAtendidos2:  211
+  
+New Objective:  10605(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 262
+6/6/2013 1:55:34 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  90
+mu3:  112
+  
+Values of Output Variables
+bienAtendidos1:  266.666666666667
+bienAtendidos2:  773.666666666667
+malAtendidos1:  35
+malAtendidos2:  111.666666666667
+  
+New Objective:  10995(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 263
+6/6/2013 1:55:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  103
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  85.6666666666667
+bienAtendidos2:  262.333333333333
+malAtendidos1:  221.333333333333
+malAtendidos2:  620.333333333333
+  
+New Objective:  10540(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 264
+6/6/2013 1:55:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  106
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  199
+bienAtendidos2:  646
+malAtendidos1:  116.666666666667
+malAtendidos2:  238.333333333333
+  
+New Objective:  10555(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 265
+6/6/2013 1:55:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  99
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  226
+bienAtendidos2:  690
+malAtendidos1:  68.3333333333333
+malAtendidos2:  169.666666666667
+  
+New Objective:  10050(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 266
+6/6/2013 1:55:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  72
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  183.333333333333
+bienAtendidos2:  427.333333333333
+malAtendidos1:  109.666666666667
+malAtendidos2:  439
+  
+New Objective:  11490(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 267
+6/6/2013 1:55:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  103
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  262.333333333333
+bienAtendidos2:  723
+malAtendidos1:  56.3333333333333
+malAtendidos2:  150
+  
+New Objective:  10630(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 268
+6/6/2013 1:55:42 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  105
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  232.666666666667
+bienAtendidos2:  729.666666666667
+malAtendidos1:  52.3333333333333
+malAtendidos2:  132.333333333333
+  
+New Objective:  10530(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 269
+6/6/2013 1:55:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  102
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  252.333333333333
+bienAtendidos2:  833
+malAtendidos1:  59.6666666666667
+malAtendidos2:  67.6666666666667
+  
+New Objective:  10620(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 270
+6/6/2013 1:55:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  106
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  241.333333333333
+bienAtendidos2:  778.333333333333
+malAtendidos1:  50.3333333333333
+malAtendidos2:  106
+  
+New Objective:  10600(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 271
+6/6/2013 1:55:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  105
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  147
+bienAtendidos2:  515
+malAtendidos1:  164.333333333333
+malAtendidos2:  370.333333333333
+  
+New Objective:  10425(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 272
+6/6/2013 1:55:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  103
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  221.666666666667
+bienAtendidos2:  686.333333333333
+malAtendidos1:  85.6666666666667
+malAtendidos2:  191.333333333333
+  
+New Objective:  10480(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 273
+6/6/2013 1:55:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  102
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  252
+bienAtendidos2:  777.333333333333
+malAtendidos1:  54
+malAtendidos2:  78
+  
+New Objective:  10500(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 274
+6/6/2013 1:55:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  54
+mu2:  102
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  312.333333333333
+bienAtendidos2:  907.333333333333
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  13080(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 275
+6/6/2013 1:55:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  103
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  209
+bienAtendidos2:  660.333333333333
+malAtendidos1:  95
+malAtendidos2:  230
+  
+New Objective:  10525(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 276
+6/6/2013 1:55:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  104
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  246.666666666667
+bienAtendidos2:  811
+malAtendidos1:  54.3333333333333
+malAtendidos2:  81.6666666666667
+  
+New Objective:  10505(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 277
+6/6/2013 1:55:56 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  104
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  211.666666666667
+bienAtendidos2:  675.666666666667
+malAtendidos1:  89.3333333333333
+malAtendidos2:  209
+  
+New Objective:  10550(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 278
+6/6/2013 1:55:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  70
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  124.666666666667
+bienAtendidos2:  354
+malAtendidos1:  159.666666666667
+malAtendidos2:  533.333333333333
+  
+New Objective:  11400(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 279
+6/6/2013 1:55:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  90
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  294.333333333333
+bienAtendidos2:  876.333333333333
+malAtendidos1:  0
+malAtendidos2:  12
+  
+New Objective:  11355(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 280
+6/6/2013 1:56:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  127.333333333333
+bienAtendidos2:  340.666666666667
+malAtendidos1:  160.666666666667
+malAtendidos2:  549.666666666667
+  
+New Objective:  11175(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 281
+6/6/2013 1:56:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  64
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  136
+bienAtendidos2:  354
+malAtendidos1:  168.666666666667
+malAtendidos2:  499.333333333333
+  
+New Objective:  11130(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 282
+6/6/2013 1:56:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  57
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  193
+bienAtendidos2:  527
+malAtendidos1:  95
+malAtendidos2:  357.333333333333
+  
+New Objective:  10815(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 283
+6/6/2013 1:56:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  53
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  194.666666666667
+bienAtendidos2:  509.666666666667
+malAtendidos1:  94.6666666666667
+malAtendidos2:  355.666666666667
+  
+New Objective:  10635(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 284
+6/6/2013 1:56:05 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  200
+bienAtendidos2:  565.333333333333
+malAtendidos1:  97
+malAtendidos2:  292
+  
+New Objective:  10095(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 285
+6/6/2013 1:56:07 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  100
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  244.666666666667
+bienAtendidos2:  788.333333333333
+malAtendidos1:  66.6666666666667
+malAtendidos2:  92.6666666666667
+  
+New Objective:  10555(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 286
+6/6/2013 1:56:09 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  106
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  238
+bienAtendidos2:  785.666666666667
+malAtendidos1:  62
+malAtendidos2:  115.333333333333
+  
+New Objective:  10795(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 287
+6/6/2013 1:56:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  107
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  247
+bienAtendidos2:  824.666666666667
+malAtendidos1:  60
+malAtendidos2:  62.3333333333333
+  
+New Objective:  10730(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 288
+6/6/2013 1:56:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  53
+mu2:  93
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  162.666666666667
+bienAtendidos2:  469.666666666667
+malAtendidos1:  133.333333333333
+malAtendidos2:  412
+  
+New Objective:  10770(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 289
+6/6/2013 1:56:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  128.666666666667
+bienAtendidos2:  424
+malAtendidos1:  171.666666666667
+malAtendidos2:  442.333333333333
+  
+New Objective:  10305(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 290
+6/6/2013 1:56:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  53
+mu2:  90
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  278.333333333333
+bienAtendidos2:  711.333333333333
+malAtendidos1:  31
+malAtendidos2:  186.666666666667
+  
+New Objective:  10995(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 291
+6/6/2013 1:56:16 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  105
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  246
+bienAtendidos2:  823.333333333333
+malAtendidos1:  57
+malAtendidos2:  70.3333333333333
+  
+New Objective:  10680(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 292
+6/6/2013 1:56:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  50
+mu2:  94
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  219
+bienAtendidos2:  563
+malAtendidos1:  83
+malAtendidos2:  303.666666666667
+  
+New Objective:  10600(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 293
+6/6/2013 1:56:19 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  97
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  204.333333333333
+bienAtendidos2:  562.666666666667
+malAtendidos1:  97
+malAtendidos2:  291.333333333333
+  
+New Objective:  10510(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 294
+6/6/2013 1:56:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  53
+mu2:  95
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  193.333333333333
+bienAtendidos2:  533.666666666667
+malAtendidos1:  107.333333333333
+malAtendidos2:  365.333333333333
+  
+New Objective:  10820(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 295
+6/6/2013 1:56:22 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  101
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  265.666666666667
+bienAtendidos2:  841.666666666667
+malAtendidos1:  29.6666666666667
+malAtendidos2:  55.6666666666667
+  
+New Objective:  10610(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 296
+6/6/2013 1:56:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  90
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  144.666666666667
+bienAtendidos2:  423
+malAtendidos1:  156.333333333333
+malAtendidos2:  468.333333333333
+  
+New Objective:  9915(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 297
+6/6/2013 1:56:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  102
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  264.666666666667
+bienAtendidos2:  796.666666666667
+malAtendidos1:  43.3333333333333
+malAtendidos2:  59
+  
+New Objective:  10545(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 298
+6/6/2013 1:56:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  101
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  285
+bienAtendidos2:  845.666666666667
+malAtendidos1:  10.6666666666667
+malAtendidos2:  22.6666666666667
+  
+New Objective:  10730(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 299
+6/6/2013 1:56:27 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  104
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  266.333333333333
+bienAtendidos2:  875.333333333333
+malAtendidos1:  28
+malAtendidos2:  17.6666666666667
+  
+New Objective:  10775(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 300
+6/6/2013 1:56:28 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  101
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  260
+bienAtendidos2:  804
+malAtendidos1:  35.6666666666667
+malAtendidos2:  86.3333333333333
+  
+New Objective:  10625(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 301
+6/6/2013 1:56:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  102
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  194.333333333333
+bienAtendidos2:  598
+malAtendidos1:  113.666666666667
+malAtendidos2:  287
+  
+New Objective:  10590(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 302
+6/6/2013 1:56:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  98
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  238.666666666667
+bienAtendidos2:  709.666666666667
+malAtendidos1:  52
+malAtendidos2:  192
+  
+New Objective:  10670(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 303
+6/6/2013 1:56:33 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  101
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  218.666666666667
+bienAtendidos2:  664
+malAtendidos1:  88
+malAtendidos2:  207.666666666667
+  
+New Objective:  10550(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 304
+6/6/2013 1:56:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  96
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  128.333333333333
+bienAtendidos2:  389
+malAtendidos1:  164.333333333333
+malAtendidos2:  480.333333333333
+  
+New Objective:  10485(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 305
+6/6/2013 1:56:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  97
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  263
+bienAtendidos2:  776
+malAtendidos1:  29.3333333333333
+malAtendidos2:  89.3333333333333
+  
+New Objective:  10420(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 306
+6/6/2013 1:56:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  47
+mu2:  96
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  164.666666666667
+bienAtendidos2:  515
+malAtendidos1:  116.333333333333
+malAtendidos2:  365.666666666667
+  
+New Objective:  10515(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 307
+6/6/2013 1:56:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  99
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  191
+bienAtendidos2:  550.666666666667
+malAtendidos1:  115.333333333333
+malAtendidos2:  334.333333333333
+  
+New Objective:  10530(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 308
+6/6/2013 1:56:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  38
+mu2:  103
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  280.333333333333
+bienAtendidos2:  796.666666666667
+malAtendidos1:  32
+malAtendidos2:  71
+  
+New Objective:  10765(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 309
+6/6/2013 1:56:42 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  99
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  214.666666666667
+bienAtendidos2:  636.666666666667
+malAtendidos1:  89.6666666666667
+malAtendidos2:  259.666666666667
+  
+New Objective:  10545(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 310
+6/6/2013 1:56:43 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  102
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  277
+bienAtendidos2:  830.666666666667
+malAtendidos1:  24
+malAtendidos2:  56.3333333333333
+  
+New Objective:  10845(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 311
+6/6/2013 1:56:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  99
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  195.666666666667
+bienAtendidos2:  615.333333333333
+malAtendidos1:  105.333333333333
+malAtendidos2:  268.333333333333
+  
+New Objective:  10350(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 312
+6/6/2013 1:56:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  105
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  259.666666666667
+bienAtendidos2:  861.666666666667
+malAtendidos1:  39
+malAtendidos2:  13.6666666666667
+  
+New Objective:  10800(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 313
+6/6/2013 1:56:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  102
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  258
+bienAtendidos2:  792.666666666667
+malAtendidos1:  53.6666666666667
+malAtendidos2:  83.6666666666667
+  
+New Objective:  10755(Best = 10665)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 314   ****NEW BEST SOLUTION****
+6/6/2013 1:56:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  289.666666666667
+bienAtendidos2:  856.333333333333
+malAtendidos1:  7.33333333333333
+malAtendidos2:  20
+  
+New Objective:  10635(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 315
+6/6/2013 1:56:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  99
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  53.3333333333333
+bienAtendidos2:  197.333333333333
+malAtendidos1:  251
+malAtendidos2:  671.333333333333
+  
+New Objective:  10575(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 316
+6/6/2013 1:56:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  199.333333333333
+bienAtendidos2:  586.666666666667
+malAtendidos1:  86.6666666666667
+malAtendidos2:  294.333333333333
+  
+New Objective:  10505(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 317
+6/6/2013 1:56:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  96
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  120.333333333333
+bienAtendidos2:  335.666666666667
+malAtendidos1:  183.333333333333
+malAtendidos2:  514
+  
+New Objective:  10470(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 318
+6/6/2013 1:56:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  99
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  240
+bienAtendidos2:  706.666666666667
+malAtendidos1:  74.3333333333333
+malAtendidos2:  159.666666666667
+  
+New Objective:  10605(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 319
+6/6/2013 1:56:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  101
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  254.666666666667
+bienAtendidos2:  796
+malAtendidos1:  58.6666666666667
+malAtendidos2:  70.6666666666667
+  
+New Objective:  10760(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 320
+6/6/2013 1:56:58 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  97
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  105.666666666667
+bienAtendidos2:  314.666666666667
+malAtendidos1:  195.333333333333
+malAtendidos2:  567.333333333333
+  
+New Objective:  10555(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 321
+6/6/2013 1:57:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  96
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  131.666666666667
+bienAtendidos2:  462.666666666667
+malAtendidos1:  168.666666666667
+malAtendidos2:  430
+  
+New Objective:  10200(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 322
+6/6/2013 1:57:01 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  46
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  277.333333333333
+bienAtendidos2:  795.666666666667
+malAtendidos1:  20
+malAtendidos2:  97.3333333333333
+  
+New Objective:  10905(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 323
+6/6/2013 1:57:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  102
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  247.333333333333
+bienAtendidos2:  839.333333333333
+malAtendidos1:  53.3333333333333
+malAtendidos2:  55
+  
+New Objective:  10785(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 324
+6/6/2013 1:57:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  236
+bienAtendidos2:  770
+malAtendidos1:  67
+malAtendidos2:  127.666666666667
+  
+New Objective:  10575(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 325
+6/6/2013 1:57:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  99
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  254.666666666667
+bienAtendidos2:  774.333333333333
+malAtendidos1:  49
+malAtendidos2:  98
+  
+New Objective:  10620(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 326
+6/6/2013 1:57:07 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  97
+mu3:  100
+  
+Values of Output Variables
+bienAtendidos1:  220.666666666667
+bienAtendidos2:  640.666666666667
+malAtendidos1:  72.3333333333333
+malAtendidos2:  209.666666666667
+  
+New Objective:  10450(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 327
+6/6/2013 1:57:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  98
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  156
+bienAtendidos2:  408
+malAtendidos1:  162.666666666667
+malAtendidos2:  471.666666666667
+  
+New Objective:  10535(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 328
+6/6/2013 1:57:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  179
+bienAtendidos2:  488.666666666667
+malAtendidos1:  122.666666666667
+malAtendidos2:  375.666666666667
+  
+New Objective:  10415(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 329
+6/6/2013 1:57:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  99
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  272.666666666667
+bienAtendidos2:  814.666666666667
+malAtendidos1:  20
+malAtendidos2:  66.6666666666667
+  
+New Objective:  10695(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 330
+6/6/2013 1:57:13 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  276.666666666667
+bienAtendidos2:  798.333333333333
+malAtendidos1:  24.6666666666667
+malAtendidos2:  50.3333333333333
+  
+New Objective:  10695(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 331
+6/6/2013 1:57:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  229
+bienAtendidos2:  716
+malAtendidos1:  74
+malAtendidos2:  174.333333333333
+  
+New Objective:  10680(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 332
+6/6/2013 1:57:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  105.666666666667
+bienAtendidos2:  368.333333333333
+malAtendidos1:  196
+malAtendidos2:  490
+  
+New Objective:  10370(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 333
+6/6/2013 1:57:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  104
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  263.333333333333
+bienAtendidos2:  922.333333333333
+malAtendidos1:  35
+malAtendidos2:  3.66666666666667
+  
+New Objective:  11735(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 334
+6/6/2013 1:57:18 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  264.333333333333
+bienAtendidos2:  779.333333333333
+malAtendidos1:  35.3333333333333
+malAtendidos2:  108.333333333333
+  
+New Objective:  10725(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 335
+6/6/2013 1:57:20 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  174
+bienAtendidos2:  508
+malAtendidos1:  118.333333333333
+malAtendidos2:  381
+  
+New Objective:  10460(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 336
+6/6/2013 1:57:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  98
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  216.666666666667
+bienAtendidos2:  644.333333333333
+malAtendidos1:  83.3333333333333
+malAtendidos2:  244.333333333333
+  
+New Objective:  10445(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 337
+6/6/2013 1:57:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  98
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  220.666666666667
+bienAtendidos2:  688.666666666667
+malAtendidos1:  69.6666666666667
+malAtendidos2:  196.666666666667
+  
+New Objective:  10475(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 338
+6/6/2013 1:57:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  202.333333333333
+bienAtendidos2:  587.666666666667
+malAtendidos1:  111.333333333333
+malAtendidos2:  284.333333333333
+  
+New Objective:  10595(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 339
+6/6/2013 1:57:26 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  98
+mu3:  101
+  
+Values of Output Variables
+bienAtendidos1:  151
+bienAtendidos2:  465.666666666667
+malAtendidos1:  153
+malAtendidos2:  426
+  
+New Objective:  10490(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 340
+6/6/2013 1:57:27 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  98
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  227.666666666667
+bienAtendidos2:  721.333333333333
+malAtendidos1:  57.6666666666667
+malAtendidos2:  172.666666666667
+  
+New Objective:  10520(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 341
+6/6/2013 1:57:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  98
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  215
+bienAtendidos2:  645.666666666667
+malAtendidos1:  76
+malAtendidos2:  241.666666666667
+  
+New Objective:  10535(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 342
+6/6/2013 1:57:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  238
+bienAtendidos2:  723
+malAtendidos1:  61.6666666666667
+malAtendidos2:  195
+  
+New Objective:  10700(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 343
+6/6/2013 1:57:31 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  176.333333333333
+bienAtendidos2:  504
+malAtendidos1:  135
+malAtendidos2:  389.666666666667
+  
+New Objective:  10455(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 344
+6/6/2013 1:57:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  102
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  280.333333333333
+bienAtendidos2:  843
+malAtendidos1:  20
+malAtendidos2:  34.6666666666667
+  
+New Objective:  10965(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 345
+6/6/2013 1:57:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  42
+mu2:  99
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  182.666666666667
+bienAtendidos2:  517
+malAtendidos1:  119
+malAtendidos2:  351.666666666667
+  
+New Objective:  10665(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 346
+6/6/2013 1:57:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  98
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  217.666666666667
+bienAtendidos2:  624
+malAtendidos1:  90.3333333333333
+malAtendidos2:  261.333333333333
+  
+New Objective:  10550(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 347
+6/6/2013 1:57:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  98
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  247.666666666667
+bienAtendidos2:  735
+malAtendidos1:  49.3333333333333
+malAtendidos2:  125
+  
+New Objective:  10565(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 348
+6/6/2013 1:57:39 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  99
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  123.666666666667
+bienAtendidos2:  367.666666666667
+malAtendidos1:  183.333333333333
+malAtendidos2:  507
+  
+New Objective:  10395(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 349
+6/6/2013 1:57:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  44
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  250
+bienAtendidos2:  686
+malAtendidos1:  68.6666666666667
+malAtendidos2:  209.333333333333
+  
+New Objective:  10790(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 350
+6/6/2013 1:57:42 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  100
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  254
+bienAtendidos2:  872.333333333333
+malAtendidos1:  44
+malAtendidos2:  29.3333333333333
+  
+New Objective:  10735(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 351
+6/6/2013 1:57:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  99
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  153.666666666667
+bienAtendidos2:  534.666666666667
+malAtendidos1:  160.666666666667
+malAtendidos2:  346
+  
+New Objective:  10500(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 352
+6/6/2013 1:57:46 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  99
+mu3:  104
+  
+Values of Output Variables
+bienAtendidos1:  219.333333333333
+bienAtendidos2:  678.333333333333
+malAtendidos1:  74
+malAtendidos2:  237.333333333333
+  
+New Objective:  10560(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 353
+6/6/2013 1:57:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  99
+mu3:  121
+  
+Values of Output Variables
+bienAtendidos1:  282.666666666667
+bienAtendidos2:  910.333333333333
+malAtendidos1:  20.3333333333333
+malAtendidos2:  4.33333333333333
+  
+New Objective:  11310(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 354
+6/6/2013 1:57:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  99
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  185.666666666667
+bienAtendidos2:  606.333333333333
+malAtendidos1:  107.333333333333
+malAtendidos2:  268
+  
+New Objective:  10440(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 355
+6/6/2013 1:57:50 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  99
+mu3:  126
+  
+Values of Output Variables
+bienAtendidos1:  268.333333333333
+bienAtendidos2:  893
+malAtendidos1:  36.6666666666667
+malAtendidos2:  21
+  
+New Objective:  11610(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 356
+6/6/2013 1:57:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  84
+mu2:  129
+mu3:  118
+  
+Values of Output Variables
+bienAtendidos1:  297.333333333333
+bienAtendidos2:  848
+malAtendidos1:  7.33333333333333
+malAtendidos2:  30
+  
+New Objective:  14085(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 357
+6/6/2013 1:57:53 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  80
+mu2:  93
+mu3:  133
+  
+Values of Output Variables
+bienAtendidos1:  317
+bienAtendidos2:  873.666666666667
+malAtendidos1:  0
+malAtendidos2:  16
+  
+New Objective:  13905(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 358
+6/6/2013 1:57:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  79
+mu2:  90
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  208.333333333333
+bienAtendidos2:  539
+malAtendidos1:  87.6666666666667
+malAtendidos2:  375.333333333333
+  
+New Objective:  12105(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 359
+6/6/2013 1:57:56 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  118
+mu3:  128
+  
+Values of Output Variables
+bienAtendidos1:  252.666666666667
+bienAtendidos2:  922.666666666667
+malAtendidos1:  48.6666666666667
+malAtendidos2:  0
+  
+New Objective:  12250(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 360
+6/6/2013 1:57:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  51
+mu2:  127
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  249.333333333333
+bienAtendidos2:  780
+malAtendidos1:  37.6666666666667
+malAtendidos2:  91.3333333333333
+  
+New Objective:  11830(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 361
+6/6/2013 1:57:59 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  92
+mu3:  130
+  
+Values of Output Variables
+bienAtendidos1:  310.666666666667
+bienAtendidos2:  880.333333333333
+malAtendidos1:  4.33333333333333
+malAtendidos2:  0.333333333333333
+  
+New Objective:  11855(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 362
+6/6/2013 1:58:00 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  69
+mu2:  116
+mu3:  132
+  
+Values of Output Variables
+bienAtendidos1:  322.333333333333
+bienAtendidos2:  884.333333333333
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  13925(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 363
+6/6/2013 1:58:02 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  70
+mu2:  110
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  281.666666666667
+bienAtendidos2:  822.666666666667
+malAtendidos1:  18
+malAtendidos2:  55
+  
+New Objective:  12560(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 364
+6/6/2013 1:58:03 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  49
+mu2:  104
+mu3:  120
+  
+Values of Output Variables
+bienAtendidos1:  304.333333333333
+bienAtendidos2:  880.666666666667
+malAtendidos1:  0.333333333333333
+malAtendidos2:  0
+  
+New Objective:  12005(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 365
+6/6/2013 1:58:04 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  80
+mu2:  125
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  149.333333333333
+bienAtendidos2:  451
+malAtendidos1:  154
+malAtendidos2:  433.333333333333
+  
+New Objective:  12905(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 366
+6/6/2013 1:58:06 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  90
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  240.333333333333
+bienAtendidos2:  646.666666666667
+malAtendidos1:  59.6666666666667
+malAtendidos2:  258
+  
+New Objective:  12375(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 367
+6/6/2013 1:58:08 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  65
+mu2:  118
+mu3:  128
+  
+Values of Output Variables
+bienAtendidos1:  306
+bienAtendidos2:  908.666666666667
+malAtendidos1:  0
+malAtendidos2:  0
+  
+New Objective:  13555(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 368
+6/6/2013 1:58:10 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  107
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  274.333333333333
+bienAtendidos2:  830.666666666667
+malAtendidos1:  23
+malAtendidos2:  54.6666666666667
+  
+New Objective:  11060(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 369
+6/6/2013 1:58:11 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  95
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  257
+bienAtendidos2:  793
+malAtendidos1:  51.6666666666667
+malAtendidos2:  106.666666666667
+  
+New Objective:  10370(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 370
+6/6/2013 1:58:12 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  90
+mu3:  108
+  
+Values of Output Variables
+bienAtendidos1:  238.333333333333
+bienAtendidos2:  673.666666666667
+malAtendidos1:  71.6666666666667
+malAtendidos2:  229.666666666667
+  
+New Objective:  10305(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 371
+6/6/2013 1:58:14 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  74
+mu2:  119
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  287.666666666667
+bienAtendidos2:  846
+malAtendidos1:  7
+malAtendidos2:  22.6666666666667
+  
+New Objective:  12485(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 372
+6/6/2013 1:58:15 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  96
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  203.666666666667
+bienAtendidos2:  699
+malAtendidos1:  96
+malAtendidos2:  201
+  
+New Objective:  10335(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 373
+6/6/2013 1:58:17 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  105
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  225.666666666667
+bienAtendidos2:  666.666666666667
+malAtendidos1:  85.6666666666667
+malAtendidos2:  211
+  
+New Objective:  10920(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 374
+6/6/2013 1:58:18 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  266.333333333333
+bienAtendidos2:  695
+malAtendidos1:  50
+malAtendidos2:  164.666666666667
+  
+New Objective:  10835(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 375
+6/6/2013 1:58:20 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  75
+mu2:  125
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  165.333333333333
+bienAtendidos2:  473
+malAtendidos1:  137.666666666667
+malAtendidos2:  433.333333333333
+  
+New Objective:  12680(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 376
+6/6/2013 1:58:21 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  68
+mu2:  124
+mu3:  114
+  
+Values of Output Variables
+bienAtendidos1:  277
+bienAtendidos2:  881.666666666667
+malAtendidos1:  10.3333333333333
+malAtendidos2:  30
+  
+New Objective:  13000(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 377
+6/6/2013 1:58:23 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  80
+mu2:  112
+mu3:  103
+  
+Values of Output Variables
+bienAtendidos1:  224
+bienAtendidos2:  649
+malAtendidos1:  79
+malAtendidos2:  242.666666666667
+  
+New Objective:  12580(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 378
+6/6/2013 1:58:24 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  123
+mu3:  111
+  
+Values of Output Variables
+bienAtendidos1:  237.333333333333
+bienAtendidos2:  745.666666666667
+malAtendidos1:  63.6666666666667
+malAtendidos2:  172.333333333333
+  
+New Objective:  11760(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 379
+6/6/2013 1:58:25 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  56
+mu2:  124
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  256.333333333333
+bienAtendidos2:  727
+malAtendidos1:  54.6666666666667
+malAtendidos2:  176
+  
+New Objective:  11980(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 380
+6/6/2013 1:58:27 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  108
+mu3:  127
+  
+Values of Output Variables
+bienAtendidos1:  289.333333333333
+bienAtendidos2:  918
+malAtendidos1:  11.6666666666667
+malAtendidos2:  1.66666666666667
+  
+New Objective:  12075(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 381
+6/6/2013 1:58:29 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  57
+mu2:  112
+mu3:  110
+  
+Values of Output Variables
+bienAtendidos1:  279
+bienAtendidos2:  774
+malAtendidos1:  22.6666666666667
+malAtendidos2:  91.3333333333333
+  
+New Objective:  11965(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 382
+6/6/2013 1:58:30 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  79
+mu2:  113
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  198
+bienAtendidos2:  583.666666666667
+malAtendidos1:  94.6666666666667
+malAtendidos2:  290
+  
+New Objective:  12680(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 383
+6/6/2013 1:58:32 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  130
+mu3:  128
+  
+Values of Output Variables
+bienAtendidos1:  304
+bienAtendidos2:  898.666666666667
+malAtendidos1:  12.6666666666667
+malAtendidos2:  2.33333333333333
+  
+New Objective:  12550(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 384
+6/6/2013 1:58:33 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  258.666666666667
+bienAtendidos2:  803
+malAtendidos1:  52.3333333333333
+malAtendidos2:  96.3333333333333
+  
+New Objective:  10590(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 385
+6/6/2013 1:58:35 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  43
+mu2:  100
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  268.666666666667
+bienAtendidos2:  775.333333333333
+malAtendidos1:  42.6666666666667
+malAtendidos2:  114
+  
+New Objective:  10795(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 386
+6/6/2013 1:58:36 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  97
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  202.333333333333
+bienAtendidos2:  732.666666666667
+malAtendidos1:  103.333333333333
+malAtendidos2:  144.666666666667
+  
+New Objective:  10360(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 387
+6/6/2013 1:58:37 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  96
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  269.333333333333
+bienAtendidos2:  814.666666666667
+malAtendidos1:  26.3333333333333
+malAtendidos2:  49.6666666666667
+  
+New Objective:  10560(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 388
+6/6/2013 1:58:38 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  99
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  224
+bienAtendidos2:  750.333333333333
+malAtendidos1:  81.3333333333333
+malAtendidos2:  141.666666666667
+  
+New Objective:  10410(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 389
+6/6/2013 1:58:40 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  85
+mu2:  126
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  272
+bienAtendidos2:  837.666666666667
+malAtendidos1:  25.6666666666667
+malAtendidos2:  83.6666666666667
+  
+New Objective:  13335(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 390
+6/6/2013 1:58:41 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  39
+mu2:  97
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  234.666666666667
+bienAtendidos2:  723.666666666667
+malAtendidos1:  53.3333333333333
+malAtendidos2:  161
+  
+New Objective:  10540(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 391
+6/6/2013 1:58:44 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  35
+mu2:  95
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  181
+bienAtendidos2:  612.333333333333
+malAtendidos1:  117.666666666667
+malAtendidos2:  287.333333333333
+  
+New Objective:  10310(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 392
+6/6/2013 1:58:45 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  40
+mu2:  104
+mu3:  105
+  
+Values of Output Variables
+bienAtendidos1:  177
+bienAtendidos2:  624.333333333333
+malAtendidos1:  97.6666666666667
+malAtendidos2:  280.666666666667
+  
+New Objective:  10700(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 393
+6/6/2013 1:58:47 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  107
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  238.333333333333
+bienAtendidos2:  751.333333333333
+malAtendidos1:  57
+malAtendidos2:  145
+  
+New Objective:  10940(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 394
+6/6/2013 1:58:48 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  101
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  218.666666666667
+bienAtendidos2:  682.333333333333
+malAtendidos1:  83.3333333333333
+malAtendidos2:  201.666666666667
+  
+New Objective:  10565(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 395
+6/6/2013 1:58:49 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  45
+mu2:  101
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  150.666666666667
+bienAtendidos2:  425
+malAtendidos1:  170
+malAtendidos2:  468
+  
+New Objective:  10910(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 396
+6/6/2013 1:58:51 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  79
+mu2:  90
+mu3:  125
+  
+Values of Output Variables
+bienAtendidos1:  297
+bienAtendidos2:  877.333333333333
+malAtendidos1:  0
+malAtendidos2:  2
+  
+New Objective:  13305(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 397
+6/6/2013 1:58:52 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  36
+mu2:  118
+mu3:  135
+  
+Values of Output Variables
+bienAtendidos1:  273.333333333333
+bienAtendidos2:  845.333333333333
+malAtendidos1:  30.3333333333333
+malAtendidos2:  12.3333333333333
+  
+New Objective:  12670(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 398
+6/6/2013 1:58:54 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  41
+mu2:  98
+mu3:  106
+  
+Values of Output Variables
+bienAtendidos1:  224
+bienAtendidos2:  736
+malAtendidos1:  73
+malAtendidos2:  150
+  
+New Objective:  10655(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 399
+6/6/2013 1:58:55 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  37
+mu2:  101
+mu3:  107
+  
+Values of Output Variables
+bienAtendidos1:  220.666666666667
+bienAtendidos2:  781.666666666667
+malAtendidos1:  84.3333333333333
+malAtendidos2:  101
+  
+New Objective:  10610(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+Simulation: 400
+6/6/2013 1:58:57 PM
+Number of Replications: 3
+  
+Values of Decision Variables
+mu1:  58
+mu2:  90
+mu3:  102
+  
+Values of Output Variables
+bienAtendidos1:  184
+bienAtendidos2:  458
+malAtendidos1:  115
+malAtendidos2:  416
+  
+New Objective:  10980(Best = 10635)
+Nivel 1:  NonLinear feasible
+Nivel 2:  NonLinear feasible
+  
+  
+ 
+Optimization Summary
+Optimization started at 6/6/2013 1:49:03 PM and ended at 6/6/2013 1:58:57 PM
+Best solution generated at simulation 314 of 400 total simulations.
+ 
